@@ -1,0 +1,561 @@
+claim_id,description,claim_type,claim_amount,date_filed
+CLM-10453,"Customer injury from falling merchandise at store in Green Bay, WI.",Liability,32211,2024-06-16
+CLM-10341,"Tornado completely destroyed barn and damaged house in Richmond, VA. Witness statements collected at scene.",Natural Disaster,46635,2024-08-20
+CLM-10177,"Diagnostic imaging and specialist consultation in Green Bay, WI for chronic back pain. Claim filed on 15/08/2024. Estimated damage $24,665.",Medical,10557,2024-11-28
+CLM-10086,"Tree fell on roof during storm in Houston, TX. Significant structural damage to attic. Claim filed on 13/12/2024.",Property Damage,48868,2024-08-18
+CLM-10332,"Severe ice storm brought down power lines and trees on property in Boston, MA.",Natural Disaster,77647,2024-12-17
+CLM-10140,"Flooding from heavy rain damaged finished basement in Annapolis, MD. Estimated damage $27,689.",Property Damage,64639,2024-10-14
+CLM-10272,"Package theft from porch in Miami, FL. Multiple deliveries taken over past month. Witness statements collected at scene.",Theft,27422,2024-12-19
+CLM-10296,"Shoplifting incident at retail store in San Francisco, CA. Significant inventory loss. Witness statements collected at scene.",Theft,34680,2024-09-19
+CLM-10101,"Tornado damage to home in Grand Rapids, MI. Detached garage destroyed completely.",Property Damage,65222,2024-08-03
+CLM-10518,"Nurse injured back lifting patient at hospital in Newark, NJ.",Workers Compensation,91742,2024-05-23
+CLM-10410,"Customer injury from falling merchandise at store in Oklahoma City, OK.",Liability,21422,2024-02-08
+CLM-10553,"Delivery driver injured in fall while making delivery in Mesa, AZ.",Workers Compensation,66320,2024-01-22
+CLM-10155,"Burst pipe in basement of home in Houston, TX. Water damage to flooring and walls. Estimated damage $6,828.",Property Damage,49343,2024-03-18
+CLM-10055,"Side collision in parking lot of mall in New Orleans, LA. Driver door dented severely.",Auto Accident,22741,2024-11-03
+CLM-10275,"Burglary at residence in Augusta, GA. Electronics, jewelry, and cash stolen overnight. Estimated damage $23,079.",Theft,71431,2024-01-03
+CLM-10172,"Emergency room visit for chest pains in Duluth, MN. Cardiac event requiring stent. Estimated damage $41,999. Witness statements collected at scene.",Medical,67340,2024-04-25
+CLM-10517,"Mechanic injured by falling vehicle at shop in Los Angeles, CA.",Workers Compensation,89042,2024-12-18
+CLM-10165,"Inpatient hospitalization for pneumonia treatment in San Antonio, TX for five days. Claim filed on 22/10/2024.",Medical,6452,2024-04-13
+CLM-10144,"Wind damage tore shingles off roof in Seattle, WA. Interior leaking after rain.",Property Damage,73141,2024-04-19
+CLM-10204,"Surgery complications following knee replacement at hospital in Kansas City, MO.",Medical,18175,2024-02-23
+CLM-10396,"Earthquake caused foundation damage to home in Austin, TX. Cracks throughout walls. Claim filed on 15/06/2024.",Natural Disaster,27715,2024-08-10
+CLM-10010,"Single vehicle accident on icy road in Charlotte, NC. Vehicle slid into guardrail. Claim filed on 07/10/2024.",Auto Accident,86409,2024-08-13
+CLM-10467,"Negligent security claim following assault on premises in Detroit, MI. Estimated damage $4,017.",Liability,76990,2024-10-20
+CLM-10506,"Office worker developed carpal tunnel syndrome at company in Asheville, NC. Claim filed on 21/11/2024.",Workers Compensation,59548,2024-08-22
+CLM-10244,"Burglary at residence in Richmond, VA. Electronics, jewelry, and cash stolen overnight.",Theft,76321,2024-10-08
+CLM-10346,"Severe flooding from river overflow damaged property in Memphis, TN.",Natural Disaster,90244,2024-08-14
+CLM-10006,"Single vehicle accident on icy road in Trenton, NJ. Vehicle slid into guardrail. Claim filed on 03/01/2024.",Auto Accident,10958,2024-04-28
+CLM-10301,"Bicycle stolen from rack outside business in Chicago, IL. Lock cut and bike removed. Estimated damage $33,643.",Theft,8423,2024-10-21
+CLM-10072,"Multi-car pileup on freeway in Spokane, WA during heavy fog. Multiple injuries reported.",Auto Accident,7326,2024-06-08
+CLM-10442,"Customer injury from falling merchandise at store in Buffalo, NY.",Liability,55497,2024-02-14
+CLM-10527,"Restaurant employee burned by hot oil at kitchen in Detroit, MI. Claim filed on 25/10/2024.",Workers Compensation,99083,2024-11-01
+CLM-10083,"Wind damage tore shingles off roof in Rochester, NY. Interior leaking after rain.",Property Damage,47007,2024-05-11
+CLM-10081,"Lightning strike caused electrical fire at residence in Springfield, MO.",Property Damage,42745,2024-04-27
+CLM-10148,"Wind damage tore shingles off roof in New Orleans, LA. Interior leaking after rain.",Property Damage,81123,2024-01-24
+CLM-10384,"Hail storm shattered greenhouse and damaged crops in New York, NY. Claim filed on 28/01/2024.",Natural Disaster,50697,2024-03-06
+CLM-10234,"Diagnostic imaging and specialist consultation in Jacksonville, FL for chronic back pain.",Medical,65873,2024-05-16
+CLM-10479,"Customer slipped on wet floor at restaurant in Austin, TX. Suing for medical bills. Estimated damage $45,703. Witness statements collected at scene.",Liability,58737,2024-07-04
+CLM-10371,"Mudslide following heavy rain damaged home foundation in Savannah, GA.",Natural Disaster,39237,2024-11-02
+CLM-10078,"Fender bender at gas station in Phoenix, AZ when other vehicle reversed without looking. Witness statements collected at scene.",Auto Accident,70327,2024-07-22
+CLM-10531,"Delivery driver injured in fall while making delivery in Jacksonville, FL. Estimated damage $6,788.",Workers Compensation,71013,2024-09-01
+CLM-10460,"Negligent security claim following assault on premises in Colorado Springs, CO. Claim filed on 04/08/2024. Estimated damage $18,619.",Liability,36791,2024-05-21
+CLM-10030,"T-bone accident at four-way stop in Sacramento, CA. Driver ran stop sign causing collision. Estimated damage $38,784.",Auto Accident,70115,2024-03-02
+CLM-10145,"Fire damage to kitchen of residence in Worcester, MA. Smoke damage throughout home. Estimated damage $39,558. Witness statements collected at scene.",Property Damage,19464,2024-03-18
+CLM-10132,"Wind damage tore shingles off roof in Tucson, AZ. Interior leaking after rain. Claim filed on 10/06/2024.",Property Damage,17822,2024-09-12
+CLM-10368,"Earthquake caused foundation damage to home in Raleigh, NC. Cracks throughout walls.",Natural Disaster,13668,2024-03-25
+CLM-10487,"Office worker developed carpal tunnel syndrome at company in Dallas, TX. Witness statements collected at scene.",Workers Compensation,18639,2024-11-21
+CLM-10281,"Bicycle stolen from rack outside business in San Antonio, TX. Lock cut and bike removed. Claim filed on 22/07/2024.",Theft,2550,2024-04-07
+CLM-10073,"Rear-ended at traffic light in San Francisco, CA. Significant damage to rear of vehicle, neck injury reported.",Auto Accident,3171,2024-10-05
+CLM-10039,"Hit and run incident in San Diego, CA. Driver fled scene after damaging passenger side. Claim filed on 14/05/2024. Estimated damage $22,359.",Auto Accident,84007,2024-05-06
+CLM-10090,"Wind damage tore shingles off roof in Orlando, FL. Interior leaking after rain. Witness statements collected at scene.",Property Damage,6465,2024-01-18
+CLM-10070,"Multi-car pileup on freeway in Annapolis, MD during heavy fog. Multiple injuries reported. Estimated damage $42,623.",Auto Accident,61015,2024-03-02
+CLM-10002,"T-bone accident at four-way stop in Atlanta, GA. Driver ran stop sign causing collision.",Auto Accident,59378,2024-10-09
+CLM-10556,"Office worker developed carpal tunnel syndrome at company in Tacoma, WA. Estimated damage $14,051.",Workers Compensation,47849,2024-07-16
+CLM-10227,"Maternity care and delivery at hospital in Pittsburgh, PA. Cesarean section required. Claim filed on 20/12/2024.",Medical,74374,2024-01-27
+CLM-10185,"Diagnostic imaging and specialist consultation in Tucson, AZ for chronic back pain.",Medical,90338,2024-09-03
+CLM-10163,"Maternity care and delivery at hospital in Richmond, VA. Cesarean section required. Claim filed on 02/03/2024. Estimated damage $40,990. Witness statements collected at scene.",Medical,11193,2024-05-15
+CLM-10555,"Retail employee injured during armed robbery at store in Philadelphia, PA.",Workers Compensation,29181,2024-08-08
+CLM-10079,"Single vehicle accident on icy road in Chicago, IL. Vehicle slid into guardrail.",Auto Accident,64751,2024-02-14
+CLM-10376,"Severe ice storm brought down power lines and trees on property in Pittsburgh, PA. Claim filed on 10/02/2024.",Natural Disaster,20865,2024-09-11
+CLM-10524,"Restaurant employee burned by hot oil at kitchen in Richmond, VA. Claim filed on 21/10/2024.",Workers Compensation,75561,2024-09-12
+CLM-10451,"Food poisoning at catered event in Mesa, AZ. Multiple guests hospitalized.",Liability,23272,2024-04-27
+CLM-10499,"Office worker developed carpal tunnel syndrome at company in Madison, WI. Estimated damage $26,939.",Workers Compensation,73524,2024-09-01
+CLM-10228,"Slip and fall at grocery store in Peoria, IL. Broken hip requiring surgery and rehabilitation. Claim filed on 21/10/2024.",Medical,75491,2024-07-20
+CLM-10325,"Mudslide following heavy rain damaged home foundation in Knoxville, TN.",Natural Disaster,72016,2024-03-22
+CLM-10489,"Restaurant employee burned by hot oil at kitchen in Tampa, FL. Claim filed on 13/08/2024.",Workers Compensation,63184,2024-07-21
+CLM-10291,"Bicycle stolen from rack outside business in San Diego, CA. Lock cut and bike removed. Claim filed on 22/10/2024.",Theft,25162,2024-10-24
+CLM-10304,"Office break-in in Pittsburgh, PA. Computers and equipment stolen overnight. Claim filed on 20/09/2024.",Theft,52522,2024-02-12
+CLM-10082,"Burst pipe in basement of home in Boulder, CO. Water damage to flooring and walls.",Property Damage,80497,2024-11-13
+CLM-10357,"Blizzard caused roof collapse from snow accumulation in Nashville, TN.",Natural Disaster,12702,2024-07-17
+CLM-10076,"Fender bender at gas station in Rochester, NY when other vehicle reversed without looking.",Auto Accident,49692,2024-07-23
+CLM-10210,"Workplace injury at warehouse in Saint Paul, MN. Back strain from heavy lifting incident.",Medical,56351,2024-03-23
+CLM-10131,"Hail damage to roof and siding of property in Dallas, TX. Multiple broken windows.",Property Damage,58279,2024-01-19
+CLM-10192,"Emergency room visit for chest pains in Norfolk, VA. Cardiac event requiring stent. Claim filed on 09/01/2024.",Medical,73184,2024-02-23
+CLM-10264,"Vehicle stolen from driveway in Charlotte, NC. Recovered three days later with damage. Estimated damage $9,715.",Theft,33012,2024-01-09
+CLM-10382,"Wildfire destroyed structures and vehicles at property in Madison, WI.",Natural Disaster,74802,2024-03-12
+CLM-10482,"Office worker developed carpal tunnel syndrome at company in Austin, TX.",Workers Compensation,69069,2024-04-12
+CLM-10084,"Vandalism to property in Richmond, VA. Graffiti on exterior walls and broken windows. Witness statements collected at scene.",Property Damage,25542,2024-02-08
+CLM-10009,"T-bone accident at four-way stop in Boston, MA. Driver ran stop sign causing collision.",Auto Accident,30521,2024-01-26
+CLM-10117,"Hail damage to roof and siding of property in Madison, WI. Multiple broken windows. Estimated damage $39,178.",Property Damage,13654,2024-08-04
+CLM-10495,"Nurse injured back lifting patient at hospital in Springfield, MO.",Workers Compensation,73683,2024-10-02
+CLM-10322,"Earthquake caused foundation damage to home in Grand Rapids, MI. Cracks throughout walls. Claim filed on 13/06/2024.",Natural Disaster,43693,2024-08-11
+CLM-10289,"Catalytic converter stolen from vehicle parked in Sacramento, CA.",Theft,18075,2024-07-08
+CLM-10137,"Tornado damage to home in Rochester, NY. Detached garage destroyed completely.",Property Damage,80464,2024-04-21
+CLM-10109,"Tornado damage to home in Milwaukee, WI. Detached garage destroyed completely. Claim filed on 21/10/2024.",Property Damage,41230,2024-09-01
+CLM-10548,"Warehouse worker struck by forklift at facility in Boulder, CO. Estimated damage $48,536.",Workers Compensation,63408,2024-08-15
+CLM-10118,"Lightning strike caused electrical fire at residence in Fort Wayne, IN. Claim filed on 05/07/2024.",Property Damage,10307,2024-08-26
+CLM-10310,"Shoplifting incident at retail store in Springfield, IL. Significant inventory loss. Claim filed on 19/04/2024.",Theft,89240,2024-09-11
+CLM-10546,"Teacher injured breaking up altercation at school in Indianapolis, IN.",Workers Compensation,20474,2024-10-19
+CLM-10077,"Side collision in parking lot of mall in Springfield, IL. Driver door dented severely.",Auto Accident,91882,2024-05-28
+CLM-10395,"Tornado completely destroyed barn and damaged house in Minneapolis, MN.",Natural Disaster,18340,2024-10-04
+CLM-10199,"Maternity care and delivery at hospital in Fort Wayne, IN. Cesarean section required. Claim filed on 27/08/2024. Witness statements collected at scene.",Medical,68051,2024-10-08
+CLM-10158,"Hail damage to roof and siding of property in Springfield, MO. Multiple broken windows. Claim filed on 04/06/2024.",Property Damage,37012,2024-10-08
+CLM-10209,"Inpatient hospitalization for pneumonia treatment in Peoria, IL for five days.",Medical,39004,2024-06-04
+CLM-10104,"Hail damage to roof and siding of property in Saint Louis, MO. Multiple broken windows.",Property Damage,77220,2024-07-21
+CLM-10249,"Smash and grab at parked car in Orlando, FL. Laptop and bag taken from back seat.",Theft,89087,2024-12-22
+CLM-10075,"Fender bender at gas station in Norfolk, VA when other vehicle reversed without looking.",Auto Accident,21965,2024-05-04
+CLM-10488,"Factory worker injured by machinery at plant in Duluth, MN. Hand laceration.",Workers Compensation,96584,2024-02-12
+CLM-10328,"Blizzard caused roof collapse from snow accumulation in Nashville, TN. Claim filed on 20/08/2024.",Natural Disaster,91163,2024-07-18
+CLM-10421,"Negligent security claim following assault on premises in Knoxville, TN.",Liability,24365,2024-10-11
+CLM-10068,"T-bone accident at four-way stop in Norfolk, VA. Driver ran stop sign causing collision.",Auto Accident,64154,2024-01-13
+CLM-10541,"Mechanic injured by falling vehicle at shop in Peoria, IL.",Workers Compensation,45569,2024-04-14
+CLM-10063,"Hit and run incident in Seattle, WA. Driver fled scene after damaging passenger side.",Auto Accident,64017,2024-11-08
+CLM-10167,"Slip and fall at grocery store in Madison, WI. Broken hip requiring surgery and rehabilitation. Estimated damage $25,417.",Medical,30661,2024-09-18
+CLM-10398,"Hurricane caused extensive damage to coastal property in Augusta, GA. Roof torn off. Witness statements collected at scene.",Natural Disaster,33034,2024-06-13
+CLM-10015,"Hit and run incident in Cleveland, OH. Driver fled scene after damaging passenger side. Claim filed on 01/12/2024.",Auto Accident,66112,2024-03-17
+CLM-10274,"Catalytic converter stolen from vehicle parked in Jersey City, NJ. Claim filed on 15/11/2024.",Theft,52397,2024-05-27
+CLM-10188,"Slip and fall at grocery store in Portland, OR. Broken hip requiring surgery and rehabilitation.",Medical,20718,2024-03-06
+CLM-10088,"Vandalism to property in Spokane, WA. Graffiti on exterior walls and broken windows. Claim filed on 24/04/2024.",Property Damage,90961,2024-03-07
+CLM-10235,"Slip and fall at grocery store in Houston, TX. Broken hip requiring surgery and rehabilitation.",Medical,28699,2024-10-12
+CLM-10352,"Severe ice storm brought down power lines and trees on property in Eugene, OR.",Natural Disaster,81260,2024-03-26
+CLM-10033,"Single vehicle accident on icy road in Tacoma, WA. Vehicle slid into guardrail. Claim filed on 23/06/2024.",Auto Accident,88539,2024-11-10
+CLM-10404,"Faulty product injured user in Trenton, NJ. Product liability claim filed.",Liability,50665,2024-11-14
+CLM-10522,"Factory worker injured by machinery at plant in Springfield, IL. Hand laceration. Claim filed on 06/12/2024.",Workers Compensation,56665,2024-05-18
+CLM-10462,"Trip and fall on broken sidewalk outside business in Mesa, AZ.",Liability,34503,2024-07-13
+CLM-10000,"Rear-ended at traffic light in Rochester, NY. Significant damage to rear of vehicle, neck injury reported. Witness statements collected at scene.",Auto Accident,13934,2024-11-24
+CLM-10011,"Collision with deer on rural road outside Philadelphia, PA. Front end significantly damaged. Claim filed on 08/12/2024.",Auto Accident,77122,2024-07-19
+CLM-10286,"Burglary at residence in Newark, NJ. Electronics, jewelry, and cash stolen overnight.",Theft,82550,2024-11-14
+CLM-10022,"Vehicle collision occurred at intersection in Worcester, MA. Front bumper damaged and airbags deployed. Claim filed on 02/06/2024. Estimated damage $16,097.",Auto Accident,64124,2024-04-18
+CLM-10383,"Earthquake caused foundation damage to home in Spokane, WA. Cracks throughout walls.",Natural Disaster,15617,2024-04-24
+CLM-10334,"Earthquake caused foundation damage to home in Eugene, OR. Cracks throughout walls.",Natural Disaster,63798,2024-06-16
+CLM-10321,"Wildfire destroyed structures and vehicles at property in Las Vegas, NV. Claim filed on 08/12/2024.",Natural Disaster,26130,2024-08-04
+CLM-10305,"Shoplifting incident at retail store in Fort Wayne, IN. Significant inventory loss.",Theft,90158,2024-02-21
+CLM-10089,"Fire damage to kitchen of residence in Springfield, MO. Smoke damage throughout home. Claim filed on 19/09/2024.",Property Damage,25943,2024-05-08
+CLM-10195,"Emergency room visit for chest pains in Memphis, TN. Cardiac event requiring stent. Witness statements collected at scene.",Medical,13487,2024-12-21
+CLM-10153,"Lightning strike caused electrical fire at residence in Augusta, GA.",Property Damage,59941,2024-07-14
+CLM-10360,"Mudslide following heavy rain damaged home foundation in Saint Paul, MN.",Natural Disaster,74705,2024-08-26
+CLM-10018,"Vehicle collision occurred at intersection in Springfield, MA. Front bumper damaged and airbags deployed. Witness statements collected at scene.",Auto Accident,64199,2024-02-25
+CLM-10271,"Smash and grab at parked car in Springfield, IL. Laptop and bag taken from back seat. Estimated damage $36,390.",Theft,26997,2024-10-18
+CLM-10278,"Office break-in in Mesa, AZ. Computers and equipment stolen overnight.",Theft,70919,2024-07-17
+CLM-10497,"Teacher injured breaking up altercation at school in Saint Paul, MN. Claim filed on 09/01/2024.",Workers Compensation,50128,2024-07-27
+CLM-10245,"Burglary at residence in Baltimore, MD. Electronics, jewelry, and cash stolen overnight.",Theft,50332,2024-03-27
+CLM-10316,"Vehicle stolen from driveway in Houston, TX. Recovered three days later with damage. Claim filed on 10/08/2024.",Theft,17867,2024-02-06
+CLM-10176,"Diagnostic imaging and specialist consultation in Pittsburgh, PA for chronic back pain.",Medical,36502,2024-10-02
+CLM-10373,"Tornado completely destroyed barn and damaged house in Minneapolis, MN. Claim filed on 28/10/2024.",Natural Disaster,23145,2024-08-25
+CLM-10054,"Vehicle collision occurred at intersection in Grand Rapids, MI. Front bumper damaged and airbags deployed. Claim filed on 14/10/2024.",Auto Accident,58405,2024-08-22
+CLM-10431,"Pool accident at rental property in Grand Rapids, MI. Guest required emergency care. Claim filed on 02/07/2024.",Liability,20631,2024-01-12
+CLM-10046,"Side collision in parking lot of mall in Boston, MA. Driver door dented severely. Claim filed on 07/07/2024.",Auto Accident,37085,2024-06-21
+CLM-10093,"Burst pipe in basement of home in Charlotte, NC. Water damage to flooring and walls.",Property Damage,20387,2024-03-26
+CLM-10211,"Physical therapy sessions in Eugene, OR following sports-related shoulder injury.",Medical,81089,2024-07-09
+CLM-10494,"Nurse injured back lifting patient at hospital in Portland, OR.",Workers Compensation,57234,2024-11-24
+CLM-10222,"Workplace injury at warehouse in Lansing, MI. Back strain from heavy lifting incident.",Medical,54343,2024-07-27
+CLM-10559,"Office worker developed carpal tunnel syndrome at company in Baton Rouge, LA. Claim filed on 08/09/2024.",Workers Compensation,45724,2024-08-26
+CLM-10420,"Negligent security claim following assault on premises in Orlando, FL.",Liability,23792,2024-12-01
+CLM-10468,"Dog bite incident in Saint Louis, MO. Neighbor required stitches and treatment.",Liability,50526,2024-09-10
+CLM-10184,"Inpatient hospitalization for pneumonia treatment in Tucson, AZ for five days.",Medical,49872,2024-11-26
+CLM-10375,"Mudslide following heavy rain damaged home foundation in Green Bay, WI.",Natural Disaster,84456,2024-09-18
+CLM-10182,"Slip and fall at grocery store in Duluth, MN. Broken hip requiring surgery and rehabilitation. Claim filed on 04/09/2024.",Medical,95361,2024-11-20
+CLM-10481,"Office worker developed carpal tunnel syndrome at company in Baton Rouge, LA. Claim filed on 20/12/2024. Estimated damage $7,375.",Workers Compensation,81462,2024-02-10
+CLM-10203,"Workplace injury at warehouse in Baltimore, MD. Back strain from heavy lifting incident. Witness statements collected at scene.",Medical,72067,2024-06-27
+CLM-10412,"Food poisoning at catered event in Salem, OR. Multiple guests hospitalized.",Liability,31505,2024-10-11
+CLM-10069,"Single vehicle accident on icy road in Charlotte, NC. Vehicle slid into guardrail.",Auto Accident,82060,2024-09-01
+CLM-10547,"Restaurant employee burned by hot oil at kitchen in Minneapolis, MN. Estimated damage $21,026.",Workers Compensation,29535,2024-12-24
+CLM-10529,"Restaurant employee burned by hot oil at kitchen in Nashville, TN.",Workers Compensation,71309,2024-12-10
+CLM-10231,"Emergency room visit for chest pains in Portland, OR. Cardiac event requiring stent.",Medical,96733,2024-06-13
+CLM-10324,"Tornado completely destroyed barn and damaged house in Detroit, MI.",Natural Disaster,32275,2024-06-13
+CLM-10149,"Lightning strike caused electrical fire at residence in Grand Rapids, MI. Witness statements collected at scene.",Property Damage,63281,2024-07-14
+CLM-10124,"Flooding from heavy rain damaged finished basement in Springfield, MA.",Property Damage,84111,2024-05-15
+CLM-10407,"Pool accident at rental property in Memphis, TN. Guest required emergency care. Claim filed on 07/11/2024.",Liability,83174,2024-09-26
+CLM-10408,"Customer slipped on wet floor at restaurant in Nashville, TN. Suing for medical bills.",Liability,64027,2024-06-19
+CLM-10250,"Identity theft and fraudulent charges affecting resident of Arlington, VA.",Theft,39624,2024-04-10
+CLM-10444,"Dog bite incident in Colorado Springs, CO. Neighbor required stitches and treatment.",Liability,35120,2024-07-21
+CLM-10255,"Mail theft from mailbox cluster in Annapolis, MD. Checks and personal info compromised. Claim filed on 02/11/2024.",Theft,31018,2024-01-04
+CLM-10386,"Blizzard caused roof collapse from snow accumulation in Minneapolis, MN. Claim filed on 03/10/2024.",Natural Disaster,7403,2024-03-08
+CLM-10348,"Hail storm shattered greenhouse and damaged crops in Colorado Springs, CO. Claim filed on 15/10/2024.",Natural Disaster,72553,2024-09-04
+CLM-10514,"Retail employee injured during armed robbery at store in Trenton, NJ.",Workers Compensation,70479,2024-05-28
+CLM-10436,"Dog bite incident in Peoria, IL. Neighbor required stitches and treatment.",Liability,99650,2024-10-08
+CLM-10114,"Frozen pipes burst causing extensive water damage to home in Baltimore, MD. Witness statements collected at scene.",Property Damage,71092,2024-08-12
+CLM-10141,"Vandalism to property in Los Angeles, CA. Graffiti on exterior walls and broken windows.",Property Damage,31447,2024-06-04
+CLM-10411,"Construction worker injured at site in Denver, CO. Premises liability claim.",Liability,29258,2024-10-28
+CLM-10248,"Burglary at residence in Mesa, AZ. Electronics, jewelry, and cash stolen overnight.",Theft,63201,2024-09-13
+CLM-10536,"Mechanic injured by falling vehicle at shop in New York, NY.",Workers Compensation,77256,2024-01-23
+CLM-10019,"T-bone accident at four-way stop in Tucson, AZ. Driver ran stop sign causing collision. Claim filed on 16/09/2024. Estimated damage $35,081.",Auto Accident,55961,2024-04-18
+CLM-10394,"Severe ice storm brought down power lines and trees on property in Jersey City, NJ. Claim filed on 22/03/2024.",Natural Disaster,41788,2024-07-23
+CLM-10056,"Hit and run incident in New Orleans, LA. Driver fled scene after damaging passenger side. Witness statements collected at scene.",Auto Accident,98953,2024-04-22
+CLM-10261,"Catalytic converter stolen from vehicle parked in Mesa, AZ.",Theft,15264,2024-06-06
+CLM-10530,"Construction worker fell from scaffolding at site in Baton Rouge, LA. Multiple fractures.",Workers Compensation,58900,2024-08-02
+CLM-10393,"Tornado completely destroyed barn and damaged house in Fort Wayne, IN. Estimated damage $6,763.",Natural Disaster,84021,2024-07-03
+CLM-10280,"Office break-in in Columbus, OH. Computers and equipment stolen overnight.",Theft,45871,2024-03-09
+CLM-10268,"Identity theft and fraudulent charges affecting resident of Reno, NV. Witness statements collected at scene.",Theft,20578,2024-08-24
+CLM-10503,"Nurse injured back lifting patient at hospital in New York, NY.",Workers Compensation,38770,2024-09-17
+CLM-10426,"Food poisoning at catered event in Dallas, TX. Multiple guests hospitalized.",Liability,99884,2024-11-08
+CLM-10025,"Rear-ended at traffic light in Sacramento, CA. Significant damage to rear of vehicle, neck injury reported.",Auto Accident,33091,2024-04-07
+CLM-10540,"Construction worker fell from scaffolding at site in Provo, UT. Multiple fractures. Estimated damage $3,237. Witness statements collected at scene.",Workers Compensation,78704,2024-07-18
+CLM-10302,"Mail theft from mailbox cluster in Springfield, MO. Checks and personal info compromised. Estimated damage $35,379.",Theft,2053,2024-01-17
+CLM-10257,"Catalytic converter stolen from vehicle parked in Springfield, MO.",Theft,37909,2024-11-02
+CLM-10042,"Side collision in parking lot of mall in Seattle, WA. Driver door dented severely.",Auto Accident,53764,2024-10-24
+CLM-10362,"Earthquake caused foundation damage to home in Grand Rapids, MI. Cracks throughout walls. Claim filed on 09/02/2024.",Natural Disaster,49238,2024-11-21
+CLM-10208,"Surgery complications following knee replacement at hospital in Madison, WI.",Medical,35459,2024-02-24
+CLM-10312,"Vehicle stolen from driveway in Cleveland, OH. Recovered three days later with damage. Claim filed on 03/06/2024.",Theft,78567,2024-07-25
+CLM-10533,"Mechanic injured by falling vehicle at shop in Cleveland, OH.",Workers Compensation,20652,2024-01-15
+CLM-10331,"Tornado completely destroyed barn and damaged house in Cleveland, OH. Claim filed on 04/05/2024.",Natural Disaster,73637,2024-10-23
+CLM-10154,"Burst pipe in basement of home in Minneapolis, MN. Water damage to flooring and walls.",Property Damage,20506,2024-11-16
+CLM-10126,"Tornado damage to home in Eugene, OR. Detached garage destroyed completely.",Property Damage,90980,2024-05-15
+CLM-10299,"Package theft from porch in Salem, OR. Multiple deliveries taken over past month. Claim filed on 24/09/2024.",Theft,71558,2024-11-02
+CLM-10388,"Hail storm shattered greenhouse and damaged crops in Fort Wayne, IN. Claim filed on 07/05/2024.",Natural Disaster,82120,2024-04-15
+CLM-10174,"Broken arm from playground accident in Atlanta, GA. Child required cast and follow-up. Claim filed on 05/11/2024. Estimated damage $41,653.",Medical,99386,2024-10-25
+CLM-10031,"T-bone accident at four-way stop in Peoria, IL. Driver ran stop sign causing collision. Estimated damage $4,953.",Auto Accident,31328,2024-07-04
+CLM-10113,"Flooding from heavy rain damaged finished basement in Portland, OR.",Property Damage,37572,2024-12-10
+CLM-10218,"Workplace injury at warehouse in Mesa, AZ. Back strain from heavy lifting incident.",Medical,58841,2024-02-26
+CLM-10173,"Diagnostic imaging and specialist consultation in Eugene, OR for chronic back pain.",Medical,31468,2024-02-05
+CLM-10521,"Restaurant employee burned by hot oil at kitchen in Annapolis, MD.",Workers Compensation,25862,2024-05-15
+CLM-10265,"Shoplifting incident at retail store in Springfield, MA. Significant inventory loss.",Theft,76844,2024-12-19
+CLM-10057,"Hit and run incident in Boston, MA. Driver fled scene after damaging passenger side. Estimated damage $3,528.",Auto Accident,62777,2024-10-28
+CLM-10318,"Vehicle stolen from driveway in Richmond, VA. Recovered three days later with damage.",Theft,38753,2024-07-13
+CLM-10024,"Rear-ended at traffic light in Cleveland, OH. Significant damage to rear of vehicle, neck injury reported.",Auto Accident,7600,2024-11-21
+CLM-10017,"T-bone accident at four-way stop in New York, NY. Driver ran stop sign causing collision. Witness statements collected at scene.",Auto Accident,48076,2024-05-08
+CLM-10496,"Construction worker fell from scaffolding at site in Allentown, PA. Multiple fractures.",Workers Compensation,22179,2024-02-25
+CLM-10066,"Collision with deer on rural road outside Asheville, NC. Front end significantly damaged. Claim filed on 27/07/2024.",Auto Accident,91663,2024-01-28
+CLM-10509,"Restaurant employee burned by hot oil at kitchen in Green Bay, WI.",Workers Compensation,91269,2024-04-09
+CLM-10287,"Office break-in in Madison, WI. Computers and equipment stolen overnight. Claim filed on 12/11/2024.",Theft,42277,2024-12-14
+CLM-10493,"Restaurant employee burned by hot oil at kitchen in Buffalo, NY.",Workers Compensation,76082,2024-12-19
+CLM-10538,"Teacher injured breaking up altercation at school in Nashville, TN.",Workers Compensation,70422,2024-04-05
+CLM-10465,"Faulty product injured user in Newark, NJ. Product liability claim filed. Claim filed on 04/08/2024. Estimated damage $17,451.",Liability,73773,2024-03-22
+CLM-10400,"Customer injury from falling merchandise at store in Newark, NJ.",Liability,18822,2024-02-01
+CLM-10094,"Frozen pipes burst causing extensive water damage to home in Grand Rapids, MI. Claim filed on 08/02/2024.",Property Damage,78635,2024-10-08
+CLM-10180,"Diagnostic imaging and specialist consultation in Peoria, IL for chronic back pain. Estimated damage $16,736.",Medical,58095,2024-09-17
+CLM-10238,"Outpatient surgery for gallbladder removal at clinic in Jacksonville, FL.",Medical,59528,2024-09-09
+CLM-10092,"Tornado damage to home in Springfield, MO. Detached garage destroyed completely. Estimated damage $3,867.",Property Damage,63116,2024-02-27
+CLM-10023,"Two-car accident on highway near Trenton, NJ. Both vehicles totaled, minor injuries.",Auto Accident,53854,2024-04-04
+CLM-10446,"Food poisoning at catered event in Los Angeles, CA. Multiple guests hospitalized.",Liability,6960,2024-12-16
+CLM-10311,"Shoplifting incident at retail store in Mesa, AZ. Significant inventory loss. Witness statements collected at scene.",Theft,98208,2024-06-02
+CLM-10485,"Office worker developed carpal tunnel syndrome at company in New Orleans, LA. Claim filed on 24/02/2024.",Workers Compensation,60367,2024-05-09
+CLM-10005,"T-bone accident at four-way stop in Phoenix, AZ. Driver ran stop sign causing collision.",Auto Accident,82897,2024-10-28
+CLM-10116,"Frozen pipes burst causing extensive water damage to home in Memphis, TN. Claim filed on 25/07/2024. Estimated damage $49,304.",Property Damage,50468,2024-07-22
+CLM-10045,"Rear-ended at traffic light in Nashville, TN. Significant damage to rear of vehicle, neck injury reported.",Auto Accident,60832,2024-06-10
+CLM-10220,"Surgery complications following knee replacement at hospital in Las Vegas, NV. Estimated damage $13,671.",Medical,31529,2024-08-01
+CLM-10320,"Earthquake caused foundation damage to home in Mesa, AZ. Cracks throughout walls. Claim filed on 09/08/2024. Estimated damage $11,458.",Natural Disaster,55694,2024-05-16
+CLM-10336,"Hurricane caused extensive damage to coastal property in Portland, OR. Roof torn off.",Natural Disaster,97557,2024-04-17
+CLM-10329,"Hurricane caused extensive damage to coastal property in Las Vegas, NV. Roof torn off.",Natural Disaster,11638,2024-02-25
+CLM-10016,"Rear-ended at traffic light in Grand Rapids, MI. Significant damage to rear of vehicle, neck injury reported.",Auto Accident,49509,2024-03-18
+CLM-10048,"Two-car accident on highway near Baltimore, MD. Both vehicles totaled, minor injuries. Witness statements collected at scene.",Auto Accident,57459,2024-06-24
+CLM-10519,"Construction worker fell from scaffolding at site in Nashville, TN. Multiple fractures.",Workers Compensation,41480,2024-09-02
+CLM-10425,"Customer injury from falling merchandise at store in Asheville, NC.",Liability,50138,2024-06-18
+CLM-10003,"Vehicle collision occurred at intersection in Allentown, PA. Front bumper damaged and airbags deployed.",Auto Accident,44618,2024-02-03
+CLM-10381,"Hurricane caused extensive damage to coastal property in Duluth, MN. Roof torn off. Witness statements collected at scene.",Natural Disaster,93865,2024-10-21
+CLM-10434,"Pool accident at rental property in Houston, TX. Guest required emergency care.",Liability,50496,2024-06-06
+CLM-10060,"Two-car accident on highway near Baton Rouge, LA. Both vehicles totaled, minor injuries.",Auto Accident,16406,2024-08-05
+CLM-10196,"Diagnostic imaging and specialist consultation in Philadelphia, PA for chronic back pain. Claim filed on 10/08/2024. Witness statements collected at scene.",Medical,92976,2024-08-15
+CLM-10333,"Earthquake caused foundation damage to home in Eugene, OR. Cracks throughout walls.",Natural Disaster,11753,2024-02-27
+CLM-10539,"Warehouse worker struck by forklift at facility in Salt Lake City, UT. Claim filed on 21/03/2024.",Workers Compensation,96094,2024-11-12
+CLM-10110,"Lightning strike caused electrical fire at residence in Raleigh, NC. Claim filed on 27/02/2024. Witness statements collected at scene.",Property Damage,20681,2024-08-23
+CLM-10380,"Mudslide following heavy rain damaged home foundation in Miami, FL.",Natural Disaster,96567,2024-02-25
+CLM-10535,"Warehouse worker struck by forklift at facility in Memphis, TN.",Workers Compensation,51552,2024-11-04
+CLM-10029,"Multi-car pileup on freeway in Newark, NJ during heavy fog. Multiple injuries reported.",Auto Accident,29034,2024-01-19
+CLM-10523,"Delivery driver injured in fall while making delivery in Tucson, AZ. Claim filed on 28/05/2024. Estimated damage $31,061.",Workers Compensation,20790,2024-01-05
+CLM-10225,"Broken arm from playground accident in Miami, FL. Child required cast and follow-up. Claim filed on 23/04/2024.",Medical,37730,2024-02-09
+CLM-10247,"Package theft from porch in Raleigh, NC. Multiple deliveries taken over past month.",Theft,62314,2024-12-24
+CLM-10026,"T-bone accident at four-way stop in Indianapolis, IN. Driver ran stop sign causing collision. Claim filed on 06/05/2024.",Auto Accident,10380,2024-08-26
+CLM-10007,"Rear-ended at traffic light in Nashville, TN. Significant damage to rear of vehicle, neck injury reported. Claim filed on 21/06/2024. Estimated damage $23,783.",Auto Accident,35493,2024-12-22
+CLM-10181,"Maternity care and delivery at hospital in Allentown, PA. Cesarean section required.",Medical,44850,2024-11-20
+CLM-10050,"Vehicle collision occurred at intersection in Cleveland, OH. Front bumper damaged and airbags deployed. Claim filed on 26/09/2024.",Auto Accident,97105,2024-11-07
+CLM-10108,"Wind damage tore shingles off roof in Madison, WI. Interior leaking after rain.",Property Damage,72487,2024-03-10
+CLM-10229,"Slip and fall at grocery store in Madison, WI. Broken hip requiring surgery and rehabilitation.",Medical,40096,2024-08-08
+CLM-10037,"T-bone accident at four-way stop in Grand Rapids, MI. Driver ran stop sign causing collision. Estimated damage $9,300.",Auto Accident,14529,2024-12-18
+CLM-10157,"Flooding from heavy rain damaged finished basement in San Diego, CA.",Property Damage,76248,2024-09-07
+CLM-10237,"Surgery complications following knee replacement at hospital in Tacoma, WA.",Medical,53005,2024-01-19
+CLM-10534,"Restaurant employee burned by hot oil at kitchen in Los Angeles, CA. Claim filed on 02/03/2024.",Workers Compensation,75861,2024-04-09
+CLM-10175,"Maternity care and delivery at hospital in Indianapolis, IN. Cesarean section required.",Medical,82357,2024-06-28
+CLM-10558,"Retail employee injured during armed robbery at store in Salt Lake City, UT.",Workers Compensation,77528,2024-11-27
+CLM-10486,"Teacher injured breaking up altercation at school in San Diego, CA. Claim filed on 06/01/2024.",Workers Compensation,89205,2024-06-14
+CLM-10194,"Emergency room visit for chest pains in Indianapolis, IN. Cardiac event requiring stent.",Medical,52464,2024-09-12
+CLM-10440,"Faulty product injured user in Augusta, GA. Product liability claim filed. Estimated damage $28,246. Witness statements collected at scene.",Liability,90038,2024-07-07
+CLM-10067,"Fender bender at gas station in Nashville, TN when other vehicle reversed without looking.",Auto Accident,51616,2024-07-18
+CLM-10277,"Shoplifting incident at retail store in Indianapolis, IN. Significant inventory loss.",Theft,89986,2024-11-28
+CLM-10168,"Diagnostic imaging and specialist consultation in Springfield, IL for chronic back pain.",Medical,60760,2024-02-28
+CLM-10369,"Wildfire destroyed structures and vehicles at property in Annapolis, MD.",Natural Disaster,18827,2024-04-09
+CLM-10448,"Construction worker injured at site in Mesa, AZ. Premises liability claim.",Liability,42556,2024-05-24
+CLM-10193,"Outpatient surgery for gallbladder removal at clinic in Phoenix, AZ. Claim filed on 25/03/2024.",Medical,19813,2024-07-03
+CLM-10152,"Tornado damage to home in Green Bay, WI. Detached garage destroyed completely. Estimated damage $46,491. Witness statements collected at scene.",Property Damage,86314,2024-11-25
+CLM-10284,"Identity theft and fraudulent charges affecting resident of Worcester, MA.",Theft,78870,2024-11-27
+CLM-10319,"Vehicle stolen from driveway in Newark, NJ. Recovered three days later with damage.",Theft,22727,2024-11-13
+CLM-10424,"Pool accident at rental property in Savannah, GA. Guest required emergency care. Claim filed on 03/06/2024. Witness statements collected at scene.",Liability,667,2024-01-13
+CLM-10290,"Identity theft and fraudulent charges affecting resident of Savannah, GA. Estimated damage $29,977.",Theft,12619,2024-09-24
+CLM-10103,"Frozen pipes burst causing extensive water damage to home in Annapolis, MD.",Property Damage,35825,2024-10-02
+CLM-10377,"Blizzard caused roof collapse from snow accumulation in Annapolis, MD.",Natural Disaster,9165,2024-05-23
+CLM-10074,"Side collision in parking lot of mall in Tucson, AZ. Driver door dented severely. Estimated damage $14,784.",Auto Accident,34086,2024-06-06
+CLM-10367,"Wildfire destroyed structures and vehicles at property in Oklahoma City, OK.",Natural Disaster,46530,2024-12-07
+CLM-10537,"Office worker developed carpal tunnel syndrome at company in Salem, OR. Estimated damage $45,449.",Workers Compensation,11838,2024-05-25
+CLM-10119,"Vandalism to property in Portland, OR. Graffiti on exterior walls and broken windows. Witness statements collected at scene.",Property Damage,43565,2024-11-28
+CLM-10335,"Wildfire destroyed structures and vehicles at property in Cincinnati, OH. Witness statements collected at scene.",Natural Disaster,6356,2024-12-04
+CLM-10355,"Blizzard caused roof collapse from snow accumulation in Sacramento, CA. Witness statements collected at scene.",Natural Disaster,17892,2024-04-05
+CLM-10422,"Negligent security claim following assault on premises in Boston, MA. Estimated damage $33,017. Witness statements collected at scene.",Liability,98193,2024-02-08
+CLM-10532,"Office worker developed carpal tunnel syndrome at company in Savannah, GA.",Workers Compensation,56101,2024-02-07
+CLM-10364,"Wildfire destroyed structures and vehicles at property in Dallas, TX. Claim filed on 16/02/2024. Estimated damage $15,323.",Natural Disaster,58835,2024-01-01
+CLM-10298,"Smash and grab at parked car in Spokane, WA. Laptop and bag taken from back seat.",Theft,97440,2024-08-15
+CLM-10433,"Faulty product injured user in Detroit, MI. Product liability claim filed. Witness statements collected at scene.",Liability,52596,2024-08-16
+CLM-10456,"Construction worker injured at site in Savannah, GA. Premises liability claim. Claim filed on 14/09/2024. Estimated damage $45,208. Witness statements collected at scene.",Liability,17842,2024-11-06
+CLM-10438,"Customer injury from falling merchandise at store in Trenton, NJ. Witness statements collected at scene.",Liability,94125,2024-01-17
+CLM-10036,"Two-car accident on highway near Cincinnati, OH. Both vehicles totaled, minor injuries.",Auto Accident,86217,2024-09-01
+CLM-10139,"Vandalism to property in Madison, WI. Graffiti on exterior walls and broken windows. Claim filed on 08/09/2024. Estimated damage $30,229.",Property Damage,97904,2024-12-18
+CLM-10253,"Package theft from porch in Detroit, MI. Multiple deliveries taken over past month. Claim filed on 23/02/2024.",Theft,34112,2024-12-16
+CLM-10338,"Earthquake caused foundation damage to home in Cleveland, OH. Cracks throughout walls.",Natural Disaster,59426,2024-10-14
+CLM-10059,"Multi-car pileup on freeway in Seattle, WA during heavy fog. Multiple injuries reported. Claim filed on 23/01/2024.",Auto Accident,14470,2024-07-08
+CLM-10111,"Vandalism to property in New Orleans, LA. Graffiti on exterior walls and broken windows.",Property Damage,62394,2024-04-15
+CLM-10354,"Tornado completely destroyed barn and damaged house in Detroit, MI. Claim filed on 09/09/2024.",Natural Disaster,12981,2024-03-25
+CLM-10307,"Package theft from porch in Peoria, IL. Multiple deliveries taken over past month.",Theft,74667,2024-02-17
+CLM-10262,"Catalytic converter stolen from vehicle parked in Spokane, WA. Estimated damage $22,592.",Theft,74920,2024-11-25
+CLM-10429,"Customer injury from falling merchandise at store in Rochester, NY.",Liability,57411,2024-03-02
+CLM-10297,"Mail theft from mailbox cluster in Asheville, NC. Checks and personal info compromised. Claim filed on 07/06/2024.",Theft,32708,2024-08-18
+CLM-10150,"Burst pipe in basement of home in Milwaukee, WI. Water damage to flooring and walls.",Property Damage,42719,2024-10-05
+CLM-10266,"Burglary at residence in Tacoma, WA. Electronics, jewelry, and cash stolen overnight. Witness statements collected at scene.",Theft,15995,2024-08-10
+CLM-10512,"Nurse injured back lifting patient at hospital in Atlanta, GA. Claim filed on 23/05/2024.",Workers Compensation,17889,2024-12-21
+CLM-10038,"Two-car accident on highway near Denver, CO. Both vehicles totaled, minor injuries. Claim filed on 07/12/2024.",Auto Accident,35100,2024-09-16
+CLM-10374,"Wildfire destroyed structures and vehicles at property in Albany, NY. Estimated damage $14,638. Witness statements collected at scene.",Natural Disaster,8425,2024-07-17
+CLM-10198,"Outpatient surgery for gallbladder removal at clinic in Columbus, OH. Claim filed on 10/04/2024. Witness statements collected at scene.",Medical,55527,2024-11-26
+CLM-10544,"Office worker developed carpal tunnel syndrome at company in Detroit, MI.",Workers Compensation,76599,2024-08-11
+CLM-10146,"Vandalism to property in Orlando, FL. Graffiti on exterior walls and broken windows. Claim filed on 28/01/2024. Estimated damage $23,977.",Property Damage,31686,2024-10-11
+CLM-10552,"Mechanic injured by falling vehicle at shop in Salt Lake City, UT.",Workers Compensation,29769,2024-10-24
+CLM-10147,"Tree fell on roof during storm in Orlando, FL. Significant structural damage to attic. Claim filed on 05/12/2024. Witness statements collected at scene.",Property Damage,8830,2024-08-15
+CLM-10365,"Tornado completely destroyed barn and damaged house in Phoenix, AZ. Witness statements collected at scene.",Natural Disaster,9783,2024-04-13
+CLM-10340,"Hail storm shattered greenhouse and damaged crops in Tampa, FL. Estimated damage $7,968.",Natural Disaster,64657,2024-09-21
+CLM-10123,"Fire damage to kitchen of residence in Oklahoma City, OK. Smoke damage throughout home.",Property Damage,23446,2024-02-20
+CLM-10439,"Negligent security claim following assault on premises in Baton Rouge, LA.",Liability,16265,2024-08-06
+CLM-10096,"Frozen pipes burst causing extensive water damage to home in Sacramento, CA.",Property Damage,27735,2024-11-07
+CLM-10143,"Tornado damage to home in Houston, TX. Detached garage destroyed completely.",Property Damage,3299,2024-01-26
+CLM-10239,"Maternity care and delivery at hospital in Arlington, VA. Cesarean section required. Claim filed on 04/07/2024.",Medical,73616,2024-06-25
+CLM-10449,"Food poisoning at catered event in Norfolk, VA. Multiple guests hospitalized. Estimated damage $14,353.",Liability,53868,2024-12-16
+CLM-10097,"Vandalism to property in Peoria, IL. Graffiti on exterior walls and broken windows. Claim filed on 06/09/2024. Estimated damage $675.",Property Damage,90857,2024-10-16
+CLM-10469,"Food poisoning at catered event in San Diego, CA. Multiple guests hospitalized. Estimated damage $13,626.",Liability,75132,2024-08-05
+CLM-10293,"Vehicle stolen from driveway in Springfield, MO. Recovered three days later with damage.",Theft,52487,2024-04-18
+CLM-10447,"Pool accident at rental property in Reno, NV. Guest required emergency care. Claim filed on 27/05/2024.",Liability,91750,2024-11-04
+CLM-10122,"Burst pipe in basement of home in Cincinnati, OH. Water damage to flooring and walls. Claim filed on 10/01/2024. Estimated damage $4,177.",Property Damage,49631,2024-07-05
+CLM-10183,"Surgery complications following knee replacement at hospital in Duluth, MN. Claim filed on 22/03/2024.",Medical,86490,2024-12-22
+CLM-10202,"Inpatient hospitalization for pneumonia treatment in Saint Louis, MO for five days. Claim filed on 13/06/2024. Witness statements collected at scene.",Medical,9355,2024-06-08
+CLM-10323,"Blizzard caused roof collapse from snow accumulation in Richmond, VA. Claim filed on 11/10/2024.",Natural Disaster,41680,2024-03-13
+CLM-10246,"Bicycle stolen from rack outside business in Los Angeles, CA. Lock cut and bike removed.",Theft,58307,2024-06-14
+CLM-10363,"Earthquake caused foundation damage to home in San Diego, CA. Cracks throughout walls.",Natural Disaster,31189,2024-07-21
+CLM-10353,"Severe flooding from river overflow damaged property in Savannah, GA.",Natural Disaster,78731,2024-09-06
+CLM-10526,"Mechanic injured by falling vehicle at shop in Tulsa, OK.",Workers Compensation,87444,2024-06-11
+CLM-10356,"Tornado completely destroyed barn and damaged house in Seattle, WA.",Natural Disaster,76184,2024-11-09
+CLM-10470,"Trip and fall on broken sidewalk outside business in Tampa, FL.",Liability,23676,2024-06-21
+CLM-10472,"Dog bite incident in Tucson, AZ. Neighbor required stitches and treatment.",Liability,63073,2024-07-01
+CLM-10125,"Vandalism to property in Buffalo, NY. Graffiti on exterior walls and broken windows.",Property Damage,72143,2024-03-03
+CLM-10511,"Mechanic injured by falling vehicle at shop in Grand Rapids, MI.",Workers Compensation,97076,2024-09-21
+CLM-10223,"Maternity care and delivery at hospital in Springfield, IL. Cesarean section required. Claim filed on 11/11/2024. Estimated damage $31,028.",Medical,45656,2024-03-27
+CLM-10498,"Nurse injured back lifting patient at hospital in Peoria, IL.",Workers Compensation,65833,2024-08-11
+CLM-10219,"Diagnostic imaging and specialist consultation in Eugene, OR for chronic back pain.",Medical,39815,2024-03-23
+CLM-10129,"Tree fell on roof during storm in Jersey City, NJ. Significant structural damage to attic.",Property Damage,79982,2024-12-16
+CLM-10500,"Office worker developed carpal tunnel syndrome at company in Norfolk, VA.",Workers Compensation,74206,2024-04-21
+CLM-10342,"Earthquake caused foundation damage to home in Grand Rapids, MI. Cracks throughout walls.",Natural Disaster,41549,2024-02-08
+CLM-10390,"Severe flooding from river overflow damaged property in Pittsburgh, PA. Claim filed on 14/01/2024.",Natural Disaster,91393,2024-01-11
+CLM-10450,"Tenant injury claim from defective stairs at apartment in Reno, NV.",Liability,41279,2024-12-17
+CLM-10549,"Restaurant employee burned by hot oil at kitchen in Lansing, MI. Estimated damage $42,806.",Workers Compensation,37280,2024-03-18
+CLM-10423,"Trip and fall on broken sidewalk outside business in Minneapolis, MN. Claim filed on 03/12/2024.",Liability,44507,2024-08-01
+CLM-10349,"Severe ice storm brought down power lines and trees on property in San Antonio, TX. Claim filed on 18/06/2024.",Natural Disaster,94738,2024-08-18
+CLM-10294,"Smash and grab at parked car in Colorado Springs, CO. Laptop and bag taken from back seat.",Theft,34783,2024-06-17
+CLM-10437,"Tenant injury claim from defective stairs at apartment in Sacramento, CA.",Liability,70690,2024-11-28
+CLM-10403,"Faulty product injured user in Houston, TX. Product liability claim filed.",Liability,6096,2024-08-02
+CLM-10361,"Tornado completely destroyed barn and damaged house in San Diego, CA. Claim filed on 21/08/2024. Estimated damage $10,853.",Natural Disaster,588,2024-07-07
+CLM-10112,"Lightning strike caused electrical fire at residence in Philadelphia, PA.",Property Damage,18392,2024-02-09
+CLM-10179,"Maternity care and delivery at hospital in Jacksonville, FL. Cesarean section required.",Medical,8609,2024-08-04
+CLM-10471,"Customer slipped on wet floor at restaurant in New York, NY. Suing for medical bills.",Liability,76034,2024-03-16
+CLM-10402,"Negligent security claim following assault on premises in Tacoma, WA. Estimated damage $4,725.",Liability,85170,2024-08-26
+CLM-10414,"Customer injury from falling merchandise at store in Salt Lake City, UT. Witness statements collected at scene.",Liability,30990,2024-10-08
+CLM-10314,"Shoplifting incident at retail store in Cleveland, OH. Significant inventory loss. Claim filed on 19/11/2024.",Theft,39215,2024-04-23
+CLM-10151,"Burst pipe in basement of home in Tucson, AZ. Water damage to flooring and walls. Claim filed on 21/10/2024.",Property Damage,78801,2024-09-10
+CLM-10428,"Faulty product injured user in Nashville, TN. Product liability claim filed. Claim filed on 03/09/2024.",Liability,44795,2024-10-20
+CLM-10233,"Surgery complications following knee replacement at hospital in Dallas, TX. Claim filed on 13/10/2024.",Medical,21432,2024-06-19
+CLM-10306,"Burglary at residence in Houston, TX. Electronics, jewelry, and cash stolen overnight.",Theft,83959,2024-01-23
+CLM-10370,"Wildfire destroyed structures and vehicles at property in Seattle, WA.",Natural Disaster,91002,2024-01-28
+CLM-10164,"Inpatient hospitalization for pneumonia treatment in Milwaukee, WI for five days.",Medical,67654,2024-02-12
+CLM-10317,"Shoplifting incident at retail store in Indianapolis, IN. Significant inventory loss. Witness statements collected at scene.",Theft,12246,2024-06-18
+CLM-10136,"Wind damage tore shingles off roof in Tacoma, WA. Interior leaking after rain.",Property Damage,14701,2024-11-08
+CLM-10197,"Maternity care and delivery at hospital in New York, NY. Cesarean section required. Estimated damage $14,633.",Medical,72432,2024-12-20
+CLM-10416,"Faulty product injured user in Saint Paul, MN. Product liability claim filed. Claim filed on 05/10/2024. Witness statements collected at scene.",Liability,15038,2024-09-28
+CLM-10258,"Vehicle stolen from driveway in Trenton, NJ. Recovered three days later with damage. Claim filed on 24/12/2024. Witness statements collected at scene.",Theft,23446,2024-07-27
+CLM-10232,"Surgery complications following knee replacement at hospital in Reno, NV. Estimated damage $16,342.",Medical,35558,2024-08-08
+CLM-10115,"Wind damage tore shingles off roof in Provo, UT. Interior leaking after rain.",Property Damage,25227,2024-12-08
+CLM-10120,"Lightning strike caused electrical fire at residence in Nashville, TN.",Property Damage,64456,2024-09-02
+CLM-10415,"Customer slipped on wet floor at restaurant in Oklahoma City, OK. Suing for medical bills.",Liability,17603,2024-06-23
+CLM-10224,"Outpatient surgery for gallbladder removal at clinic in Annapolis, MD. Claim filed on 05/07/2024.",Medical,16774,2024-09-05
+CLM-10477,"Construction worker injured at site in Boston, MA. Premises liability claim. Estimated damage $48,608. Witness statements collected at scene.",Liability,66643,2024-03-04
+CLM-10399,"Hail storm shattered greenhouse and damaged crops in San Diego, CA.",Natural Disaster,4573,2024-07-28
+CLM-10347,"Tropical storm flooding ruined first floor of business in Milwaukee, WI. Claim filed on 19/01/2024.",Natural Disaster,4785,2024-05-08
+CLM-10127,"Vandalism to property in Atlanta, GA. Graffiti on exterior walls and broken windows. Witness statements collected at scene.",Property Damage,50486,2024-10-12
+CLM-10550,"Nurse injured back lifting patient at hospital in Tacoma, WA.",Workers Compensation,2941,2024-09-21
+CLM-10285,"Smash and grab at parked car in Springfield, MA. Laptop and bag taken from back seat. Estimated damage $43,767.",Theft,54706,2024-05-09
+CLM-10515,"Warehouse worker struck by forklift at facility in Buffalo, NY. Estimated damage $10,024. Witness statements collected at scene.",Workers Compensation,7919,2024-04-09
+CLM-10490,"Factory worker injured by machinery at plant in San Antonio, TX. Hand laceration. Claim filed on 24/01/2024.",Workers Compensation,14093,2024-07-19
+CLM-10107,"Flooding from heavy rain damaged finished basement in New Orleans, LA. Estimated damage $36,059.",Property Damage,7604,2024-04-17
+CLM-10441,"Faulty product injured user in Richmond, VA. Product liability claim filed. Claim filed on 24/02/2024. Estimated damage $36,961.",Liability,43246,2024-05-17
+CLM-10492,"Factory worker injured by machinery at plant in Springfield, MO. Hand laceration. Estimated damage $27,453.",Workers Compensation,8801,2024-05-21
+CLM-10133,"Lightning strike caused electrical fire at residence in Green Bay, WI.",Property Damage,63656,2024-05-24
+CLM-10432,"Customer slipped on wet floor at restaurant in Columbus, OH. Suing for medical bills. Claim filed on 27/11/2024.",Liability,13212,2024-01-07
+CLM-10044,"Single vehicle accident on icy road in Raleigh, NC. Vehicle slid into guardrail.",Auto Accident,35470,2024-03-26
+CLM-10169,"Diagnostic imaging and specialist consultation in Trenton, NJ for chronic back pain.",Medical,38447,2024-02-13
+CLM-10065,"Two-car accident on highway near Worcester, MA. Both vehicles totaled, minor injuries. Estimated damage $14,521. Witness statements collected at scene.",Auto Accident,53924,2024-06-18
+CLM-10283,"Burglary at residence in Charlotte, NC. Electronics, jewelry, and cash stolen overnight.",Theft,7898,2024-03-17
+CLM-10085,"Flooding from heavy rain damaged finished basement in Milwaukee, WI.",Property Damage,93802,2024-08-15
+CLM-10242,"Shoplifting incident at retail store in Arlington, VA. Significant inventory loss.",Theft,67309,2024-09-16
+CLM-10186,"Inpatient hospitalization for pneumonia treatment in New Orleans, LA for five days.",Medical,28574,2024-06-25
+CLM-10457,"Negligent security claim following assault on premises in Buffalo, NY. Claim filed on 20/05/2024.",Liability,36594,2024-07-13
+CLM-10159,"Flooding from heavy rain damaged finished basement in Newark, NJ.",Property Damage,84739,2024-09-01
+CLM-10012,"Multi-car pileup on freeway in Las Vegas, NV during heavy fog. Multiple injuries reported. Claim filed on 05/09/2024.",Auto Accident,14871,2024-03-21
+CLM-10035,"Rear-ended at traffic light in Tulsa, OK. Significant damage to rear of vehicle, neck injury reported. Claim filed on 09/03/2024.",Auto Accident,32518,2024-06-10
+CLM-10028,"Collision with deer on rural road outside Springfield, MO. Front end significantly damaged. Claim filed on 13/01/2024. Estimated damage $641.",Auto Accident,35260,2024-08-10
+CLM-10170,"Slip and fall at grocery store in Saint Paul, MN. Broken hip requiring surgery and rehabilitation. Claim filed on 20/08/2024.",Medical,12051,2024-07-28
+CLM-10142,"Wind damage tore shingles off roof in Salt Lake City, UT. Interior leaking after rain. Witness statements collected at scene.",Property Damage,36660,2024-04-04
+CLM-10473,"Customer slipped on wet floor at restaurant in Tulsa, OK. Suing for medical bills. Claim filed on 12/01/2024.",Liability,70103,2024-04-01
+CLM-10405,"Faulty product injured user in Salem, OR. Product liability claim filed. Claim filed on 06/05/2024.",Liability,5041,2024-10-20
+CLM-10221,"Diagnostic imaging and specialist consultation in Provo, UT for chronic back pain.",Medical,17509,2024-10-03
+CLM-10501,"Teacher injured breaking up altercation at school in Portland, OR. Estimated damage $15,109.",Workers Compensation,44012,2024-09-25
+CLM-10095,"Lightning strike caused electrical fire at residence in Nashville, TN.",Property Damage,56707,2024-05-19
+CLM-10051,"Single vehicle accident on icy road in Cleveland, OH. Vehicle slid into guardrail. Claim filed on 22/06/2024.",Auto Accident,16834,2024-12-10
+CLM-10240,"Package theft from porch in Atlanta, GA. Multiple deliveries taken over past month. Witness statements collected at scene.",Theft,5600,2024-03-23
+CLM-10443,"Faulty product injured user in Philadelphia, PA. Product liability claim filed.",Liability,13633,2024-02-19
+CLM-10351,"Tornado completely destroyed barn and damaged house in Houston, TX.",Natural Disaster,31556,2024-04-26
+CLM-10452,"Construction worker injured at site in Sacramento, CA. Premises liability claim. Claim filed on 15/01/2024.",Liability,36410,2024-06-27
+CLM-10178,"Workplace injury at warehouse in Arlington, VA. Back strain from heavy lifting incident.",Medical,97351,2024-01-15
+CLM-10464,"Construction worker injured at site in Tulsa, OK. Premises liability claim.",Liability,47488,2024-09-10
+CLM-10041,"Vehicle collision occurred at intersection in Reno, NV. Front bumper damaged and airbags deployed. Estimated damage $8,852. Witness statements collected at scene.",Auto Accident,48295,2024-01-12
+CLM-10516,"Factory worker injured by machinery at plant in Colorado Springs, CO. Hand laceration. Estimated damage $4,565.",Workers Compensation,39184,2024-04-25
+CLM-10480,"Mechanic injured by falling vehicle at shop in Spokane, WA. Estimated damage $46,060.",Workers Compensation,1719,2024-05-14
+CLM-10206,"Outpatient surgery for gallbladder removal at clinic in Saint Louis, MO. Claim filed on 25/11/2024. Estimated damage $23,894.",Medical,6765,2024-11-11
+CLM-10392,"Tropical storm flooding ruined first floor of business in Sacramento, CA. Estimated damage $18,838. Witness statements collected at scene.",Natural Disaster,30839,2024-09-14
+CLM-10282,"Vehicle stolen from driveway in Dallas, TX. Recovered three days later with damage.",Theft,6880,2024-04-24
+CLM-10358,"Mudslide following heavy rain damaged home foundation in Reno, NV.",Natural Disaster,96539,2024-02-24
+CLM-10397,"Tropical storm flooding ruined first floor of business in Tacoma, WA. Estimated damage $45,461.",Natural Disaster,92867,2024-12-20
+CLM-10254,"Bicycle stolen from rack outside business in Atlanta, GA. Lock cut and bike removed.",Theft,36101,2024-03-04
+CLM-10542,"Mechanic injured by falling vehicle at shop in Philadelphia, PA. Claim filed on 08/10/2024.",Workers Compensation,24270,2024-11-26
+CLM-10004,"Multi-car pileup on freeway in Dallas, TX during heavy fog. Multiple injuries reported.",Auto Accident,6195,2024-12-15
+CLM-10256,"Shoplifting incident at retail store in Duluth, MN. Significant inventory loss. Estimated damage $9,509. Witness statements collected at scene.",Theft,72635,2024-03-14
+CLM-10525,"Office worker developed carpal tunnel syndrome at company in Minneapolis, MN.",Workers Compensation,66709,2024-03-14
+CLM-10100,"Tree fell on roof during storm in Miami, FL. Significant structural damage to attic.",Property Damage,38328,2024-08-04
+CLM-10226,"Emergency room visit for chest pains in Provo, UT. Cardiac event requiring stent. Claim filed on 21/05/2024. Witness statements collected at scene.",Medical,84515,2024-03-19
+CLM-10507,"Retail employee injured during armed robbery at store in Green Bay, WI. Claim filed on 16/01/2024. Witness statements collected at scene.",Workers Compensation,57229,2024-10-16
+CLM-10213,"Slip and fall at grocery store in Philadelphia, PA. Broken hip requiring surgery and rehabilitation.",Medical,17045,2024-02-08
+CLM-10502,"Retail employee injured during armed robbery at store in Richmond, VA.",Workers Compensation,15445,2024-02-25
+CLM-10171,"Workplace injury at warehouse in Seattle, WA. Back strain from heavy lifting incident. Witness statements collected at scene.",Medical,41168,2024-12-11
+CLM-10098,"Vandalism to property in Los Angeles, CA. Graffiti on exterior walls and broken windows. Claim filed on 23/05/2024.",Property Damage,90596,2024-04-09
+CLM-10292,"Office break-in in Augusta, GA. Computers and equipment stolen overnight.",Theft,2509,2024-04-07
+CLM-10215,"Diagnostic imaging and specialist consultation in Cincinnati, OH for chronic back pain.",Medical,52671,2024-06-21
+CLM-10061,"Collision with deer on rural road outside Oklahoma City, OK. Front end significantly damaged.",Auto Accident,58508,2024-10-27
+CLM-10406,"Negligent security claim following assault on premises in Seattle, WA.",Liability,63287,2024-01-03
+CLM-10047,"T-bone accident at four-way stop in Charlotte, NC. Driver ran stop sign causing collision.",Auto Accident,4117,2024-02-09
+CLM-10032,"Fender bender at gas station in Seattle, WA when other vehicle reversed without looking. Estimated damage $5,872.",Auto Accident,77003,2024-10-17
+CLM-10417,"Trip and fall on broken sidewalk outside business in Springfield, IL.",Liability,13742,2024-06-10
+CLM-10267,"Package theft from porch in Charlotte, NC. Multiple deliveries taken over past month.",Theft,41260,2024-12-04
+CLM-10327,"Wildfire destroyed structures and vehicles at property in Raleigh, NC. Estimated damage $20,346.",Natural Disaster,86832,2024-03-23
+CLM-10200,"Surgery complications following knee replacement at hospital in Detroit, MI.",Medical,55100,2024-03-22
+CLM-10134,"Wind damage tore shingles off roof in San Antonio, TX. Interior leaking after rain. Estimated damage $49,924.",Property Damage,89147,2024-12-22
+CLM-10027,"T-bone accident at four-way stop in Dallas, TX. Driver ran stop sign causing collision. Claim filed on 18/01/2024.",Auto Accident,31482,2024-03-14
+CLM-10463,"Food poisoning at catered event in Los Angeles, CA. Multiple guests hospitalized.",Liability,45479,2024-12-23
+CLM-10230,"Inpatient hospitalization for pneumonia treatment in Grand Rapids, MI for five days.",Medical,54976,2024-08-15
+CLM-10260,"Burglary at residence in Grand Rapids, MI. Electronics, jewelry, and cash stolen overnight. Estimated damage $22,457.",Theft,84558,2024-09-17
+CLM-10378,"Blizzard caused roof collapse from snow accumulation in Springfield, MA. Claim filed on 03/07/2024. Estimated damage $40,627.",Natural Disaster,41039,2024-11-24
+CLM-10288,"Shoplifting incident at retail store in Pittsburgh, PA. Significant inventory loss. Claim filed on 06/09/2024.",Theft,39918,2024-12-05
+CLM-10418,"Trip and fall on broken sidewalk outside business in Mesa, AZ.",Liability,84289,2024-08-21
+CLM-10162,"Outpatient surgery for gallbladder removal at clinic in Augusta, GA.",Medical,41346,2024-12-11
+CLM-10391,"Hurricane caused extensive damage to coastal property in Nashville, TN. Roof torn off. Witness statements collected at scene.",Natural Disaster,69943,2024-04-14
+CLM-10505,"Retail employee injured during armed robbery at store in Atlanta, GA. Claim filed on 28/07/2024.",Workers Compensation,25479,2024-12-11
+CLM-10138,"Burst pipe in basement of home in Kansas City, MO. Water damage to flooring and walls.",Property Damage,18820,2024-01-02
+CLM-10062,"T-bone accident at four-way stop in Columbus, OH. Driver ran stop sign causing collision.",Auto Accident,97972,2024-08-15
+CLM-10135,"Flooding from heavy rain damaged finished basement in Newark, NJ. Witness statements collected at scene.",Property Damage,70829,2024-02-15
+CLM-10128,"Frozen pipes burst causing extensive water damage to home in Detroit, MI.",Property Damage,86775,2024-07-09
+CLM-10543,"Retail employee injured during armed robbery at store in San Diego, CA.",Workers Compensation,60958,2024-11-18
+CLM-10008,"Rear-ended at traffic light in Norfolk, VA. Significant damage to rear of vehicle, neck injury reported.",Auto Accident,61089,2024-07-09
+CLM-10326,"Hail storm shattered greenhouse and damaged crops in Rochester, NY.",Natural Disaster,57969,2024-05-27
+CLM-10344,"Blizzard caused roof collapse from snow accumulation in Tampa, FL.",Natural Disaster,23206,2024-09-06
+CLM-10064,"Hit and run incident in Cincinnati, OH. Driver fled scene after damaging passenger side. Claim filed on 10/04/2024.",Auto Accident,71298,2024-02-05
+CLM-10300,"Office break-in in Los Angeles, CA. Computers and equipment stolen overnight. Estimated damage $44,292. Witness statements collected at scene.",Theft,1336,2024-07-05
+CLM-10014,"T-bone accident at four-way stop in Buffalo, NY. Driver ran stop sign causing collision. Estimated damage $35,690.",Auto Accident,84512,2024-06-04
+CLM-10156,"Tree fell on roof during storm in Annapolis, MD. Significant structural damage to attic.",Property Damage,54345,2024-06-28
+CLM-10040,"Collision with deer on rural road outside Provo, UT. Front end significantly damaged. Witness statements collected at scene.",Auto Accident,91073,2024-03-18
+CLM-10379,"Earthquake caused foundation damage to home in Phoenix, AZ. Cracks throughout walls. Claim filed on 05/12/2024. Estimated damage $33,032.",Natural Disaster,69051,2024-09-26
+CLM-10187,"Physical therapy sessions in Jacksonville, FL following sports-related shoulder injury. Claim filed on 05/03/2024. Estimated damage $7,128.",Medical,71248,2024-12-17
+CLM-10478,"Trip and fall on broken sidewalk outside business in Los Angeles, CA.",Liability,82175,2024-01-20
+CLM-10216,"Broken arm from playground accident in Seattle, WA. Child required cast and follow-up. Estimated damage $12,692.",Medical,51223,2024-09-04
+CLM-10409,"Tenant injury claim from defective stairs at apartment in Saint Paul, MN. Estimated damage $21,397.",Liability,4340,2024-05-02
+CLM-10279,"Package theft from porch in Boston, MA. Multiple deliveries taken over past month.",Theft,61186,2024-11-24
+CLM-10052,"T-bone accident at four-way stop in Lansing, MI. Driver ran stop sign causing collision.",Auto Accident,73167,2024-03-07
+CLM-10513,"Factory worker injured by machinery at plant in Green Bay, WI. Hand laceration.",Workers Compensation,46668,2024-09-16
+CLM-10337,"Earthquake caused foundation damage to home in Provo, UT. Cracks throughout walls. Claim filed on 18/07/2024.",Natural Disaster,53590,2024-11-06
+CLM-10236,"Slip and fall at grocery store in San Diego, CA. Broken hip requiring surgery and rehabilitation. Claim filed on 20/11/2024.",Medical,1571,2024-02-14
+CLM-10207,"Broken arm from playground accident in Phoenix, AZ. Child required cast and follow-up.",Medical,58137,2024-07-11
+CLM-10212,"Slip and fall at grocery store in Springfield, IL. Broken hip requiring surgery and rehabilitation.",Medical,98790,2024-11-06
+CLM-10295,"Catalytic converter stolen from vehicle parked in Kansas City, MO. Claim filed on 24/08/2024.",Theft,27124,2024-06-11
+CLM-10528,"Office worker developed carpal tunnel syndrome at company in Eugene, OR.",Workers Compensation,81912,2024-04-02
+CLM-10251,"Identity theft and fraudulent charges affecting resident of Savannah, GA.",Theft,73964,2024-12-09
+CLM-10551,"Construction worker fell from scaffolding at site in Baltimore, MD. Multiple fractures.",Workers Compensation,5304,2024-09-09
+CLM-10461,"Pool accident at rental property in Jacksonville, FL. Guest required emergency care. Claim filed on 25/04/2024.",Liability,79147,2024-07-22
+CLM-10455,"Dog bite incident in Colorado Springs, CO. Neighbor required stitches and treatment. Claim filed on 02/03/2024.",Liability,28591,2024-04-21
+CLM-10557,"Teacher injured breaking up altercation at school in San Francisco, CA. Claim filed on 21/06/2024. Estimated damage $34,668.",Workers Compensation,36347,2024-12-09
+CLM-10303,"Identity theft and fraudulent charges affecting resident of Tulsa, OK. Estimated damage $46,234.",Theft,23996,2024-02-04
+CLM-10350,"Severe flooding from river overflow damaged property in Columbus, OH. Claim filed on 27/11/2024.",Natural Disaster,4724,2024-08-09
+CLM-10269,"Mail theft from mailbox cluster in Reno, NV. Checks and personal info compromised.",Theft,70953,2024-11-27
+CLM-10483,"Warehouse worker struck by forklift at facility in Detroit, MI. Claim filed on 18/08/2024.",Workers Compensation,63501,2024-06-08
+CLM-10445,"Customer injury from falling merchandise at store in Trenton, NJ. Estimated damage $18,549.",Liability,81534,2024-10-22
+CLM-10201,"Workplace injury at warehouse in Oklahoma City, OK. Back strain from heavy lifting incident. Estimated damage $34,975.",Medical,67035,2024-09-01
+CLM-10161,"Surgery complications following knee replacement at hospital in Jersey City, NJ. Estimated damage $49,060.",Medical,4518,2024-02-24
+CLM-10043,"Two-car accident on highway near Springfield, MA. Both vehicles totaled, minor injuries.",Auto Accident,54540,2024-01-06
+CLM-10217,"Broken arm from playground accident in Tacoma, WA. Child required cast and follow-up.",Medical,91461,2024-08-07
+CLM-10401,"Customer slipped on wet floor at restaurant in Boston, MA. Suing for medical bills. Claim filed on 27/07/2024.",Liability,85000,2024-02-19
+CLM-10190,"Broken arm from playground accident in Indianapolis, IN. Child required cast and follow-up. Claim filed on 08/05/2024.",Medical,25930,2024-06-22
+CLM-10476,"Faulty product injured user in Portland, OR. Product liability claim filed.",Liability,22111,2024-07-01
+CLM-10309,"Identity theft and fraudulent charges affecting resident of Salt Lake City, UT. Estimated damage $21,110. Witness statements collected at scene.",Theft,27652,2024-10-05
+CLM-10259,"Package theft from porch in Los Angeles, CA. Multiple deliveries taken over past month.",Theft,98673,2024-05-02
+CLM-10105,"Tornado damage to home in Houston, TX. Detached garage destroyed completely.",Property Damage,14210,2024-03-11
+CLM-10053,"Multi-car pileup on freeway in Nashville, TN during heavy fog. Multiple injuries reported.",Auto Accident,39946,2024-07-18
+CLM-10389,"Tornado completely destroyed barn and damaged house in Annapolis, MD.",Natural Disaster,96505,2024-09-25
+CLM-10001,"T-bone accident at four-way stop in Houston, TX. Driver ran stop sign causing collision. Estimated damage $6,640.",Auto Accident,66737,2024-10-01
+CLM-10520,"Construction worker fell from scaffolding at site in Spokane, WA. Multiple fractures. Claim filed on 28/08/2024.",Workers Compensation,92857,2024-12-21
+CLM-10359,"Tropical storm flooding ruined first floor of business in Salem, OR.",Natural Disaster,56814,2024-04-16
+CLM-10049,"Single vehicle accident on icy road in Cleveland, OH. Vehicle slid into guardrail.",Auto Accident,76074,2024-04-09
+CLM-10419,"Trip and fall on broken sidewalk outside business in Orlando, FL.",Liability,80940,2024-06-08
+CLM-10080,"Wind damage tore shingles off roof in Fort Wayne, IN. Interior leaking after rain.",Property Damage,85756,2024-05-20
+CLM-10205,"Physical therapy sessions in Los Angeles, CA following sports-related shoulder injury. Claim filed on 02/04/2024.",Medical,41142,2024-09-13
+CLM-10034,"Collision with deer on rural road outside Minneapolis, MN. Front end significantly damaged. Witness statements collected at scene.",Auto Accident,81916,2024-10-04
+CLM-10430,"Dog bite incident in Duluth, MN. Neighbor required stitches and treatment. Claim filed on 07/07/2024.",Liability,96179,2024-09-09
+CLM-10263,"Bicycle stolen from rack outside business in Orlando, FL. Lock cut and bike removed.",Theft,56559,2024-09-11
+CLM-10508,"Mechanic injured by falling vehicle at shop in Orlando, FL. Estimated damage $8,913. Witness statements collected at scene.",Workers Compensation,86682,2024-10-20
+CLM-10427,"Faulty product injured user in Indianapolis, IN. Product liability claim filed. Claim filed on 28/01/2024.",Liability,14226,2024-02-11
+CLM-10454,"Negligent security claim following assault on premises in Indianapolis, IN. Claim filed on 28/08/2024.",Liability,21932,2024-05-24
+CLM-10366,"Wildfire destroyed structures and vehicles at property in Austin, TX. Claim filed on 12/05/2024. Estimated damage $49,858.",Natural Disaster,84592,2024-11-05
+CLM-10091,"Vandalism to property in Tucson, AZ. Graffiti on exterior walls and broken windows. Witness statements collected at scene.",Property Damage,2107,2024-10-10
+CLM-10339,"Blizzard caused roof collapse from snow accumulation in New York, NY.",Natural Disaster,8700,2024-10-04
+CLM-10345,"Tropical storm flooding ruined first floor of business in Colorado Springs, CO. Claim filed on 11/08/2024.",Natural Disaster,1756,2024-08-05
+CLM-10241,"Smash and grab at parked car in Saint Louis, MO. Laptop and bag taken from back seat. Estimated damage $34,284. Witness statements collected at scene.",Theft,80856,2024-06-06
+CLM-10013,"Two-car accident on highway near Columbus, OH. Both vehicles totaled, minor injuries.",Auto Accident,61848,2024-09-09
+CLM-10315,"Vehicle stolen from driveway in Peoria, IL. Recovered three days later with damage. Claim filed on 13/12/2024.",Theft,51568,2024-06-12
+CLM-10387,"Hail storm shattered greenhouse and damaged crops in San Francisco, CA. Estimated damage $30,980.",Natural Disaster,41223,2024-06-03
+CLM-10273,"Catalytic converter stolen from vehicle parked in Houston, TX. Witness statements collected at scene.",Theft,17794,2024-09-14
+CLM-10166,"Maternity care and delivery at hospital in Sacramento, CA. Cesarean section required. Claim filed on 10/04/2024.",Medical,38438,2024-06-04
+CLM-10554,"Nurse injured back lifting patient at hospital in Arlington, VA. Witness statements collected at scene.",Workers Compensation,21369,2024-03-19
+CLM-10484,"Construction worker fell from scaffolding at site in Buffalo, NY. Multiple fractures.",Workers Compensation,88190,2024-08-05
+CLM-10545,"Restaurant employee burned by hot oil at kitchen in Tucson, AZ.",Workers Compensation,9649,2024-04-11
+CLM-10504,"Restaurant employee burned by hot oil at kitchen in Austin, TX. Claim filed on 06/08/2024. Estimated damage $47,479.",Workers Compensation,54136,2024-02-09
+CLM-10243,"Mail theft from mailbox cluster in Grand Rapids, MI. Checks and personal info compromised. Estimated damage $22,208.",Theft,55096,2024-10-10
+CLM-10189,"Maternity care and delivery at hospital in Miami, FL. Cesarean section required. Estimated damage $24,374.",Medical,31633,2024-08-20
+CLM-10475,"Customer slipped on wet floor at restaurant in Grand Rapids, MI. Suing for medical bills.",Liability,69197,2024-06-14
+CLM-10510,"Warehouse worker struck by forklift at facility in Portland, OR. Witness statements collected at scene.",Workers Compensation,54599,2024-10-23
+CLM-10058,"Rear-ended at traffic light in Fort Wayne, IN. Significant damage to rear of vehicle, neck injury reported.",Auto Accident,91772,2024-07-16
+CLM-10474,"Customer slipped on wet floor at restaurant in Seattle, WA. Suing for medical bills. Claim filed on 12/05/2024. Estimated damage $25,636.",Liability,40623,2024-03-03
+CLM-10252,"Identity theft and fraudulent charges affecting resident of Phoenix, AZ.",Theft,52212,2024-06-25
+CLM-10021,"Side collision in parking lot of mall in Boston, MA. Driver door dented severely. Claim filed on 01/10/2024.",Auto Accident,1442,2024-02-23
+CLM-10313,"Smash and grab at parked car in Rochester, NY. Laptop and bag taken from back seat.",Theft,30402,2024-06-18
+CLM-10459,"Customer slipped on wet floor at restaurant in New Orleans, LA. Suing for medical bills.",Liability,74091,2024-11-20
+CLM-10160,"Maternity care and delivery at hospital in Denver, CO. Cesarean section required. Claim filed on 09/12/2024.",Medical,46509,2024-01-06
+CLM-10276,"Catalytic converter stolen from vehicle parked in Los Angeles, CA. Claim filed on 06/03/2024.",Theft,85156,2024-07-12
+CLM-10191,"Maternity care and delivery at hospital in Cincinnati, OH. Cesarean section required.",Medical,69635,2024-07-06
+CLM-10385,"Hurricane caused extensive damage to coastal property in Provo, UT. Roof torn off.",Natural Disaster,29927,2024-06-08
+CLM-10413,"Trip and fall on broken sidewalk outside business in Annapolis, MD. Claim filed on 23/06/2024.",Liability,74307,2024-04-27
+CLM-10491,"Teacher injured breaking up altercation at school in Jersey City, NJ. Estimated damage $25,387.",Workers Compensation,80631,2024-01-28
+CLM-10343,"Mudslide following heavy rain damaged home foundation in San Antonio, TX. Claim filed on 23/03/2024.",Natural Disaster,18570,2024-10-13
+CLM-10308,"Burglary at residence in Worcester, MA. Electronics, jewelry, and cash stolen overnight. Claim filed on 28/12/2024.",Theft,6602,2024-02-22
+CLM-10130,"Vandalism to property in Worcester, MA. Graffiti on exterior walls and broken windows.",Property Damage,81881,2024-05-22
+CLM-10099,"Frozen pipes burst causing extensive water damage to home in Atlanta, GA.",Property Damage,35316,2024-03-03
+CLM-10372,"Severe flooding from river overflow damaged property in Madison, WI.",Natural Disaster,9807,2024-09-01
+CLM-10087,"Lightning strike caused electrical fire at residence in Eugene, OR.",Property Damage,92624,2024-08-09
+CLM-10458,"Trip and fall on broken sidewalk outside business in Fort Wayne, IN. Claim filed on 15/05/2024.",Liability,52555,2024-10-04
+CLM-10330,"Severe flooding from river overflow damaged property in Salem, OR. Claim filed on 20/01/2024.",Natural Disaster,85269,2024-07-25
+CLM-10214,"Diagnostic imaging and specialist consultation in Las Vegas, NV for chronic back pain.",Medical,89506,2024-08-12
+CLM-10466,"Trip and fall on broken sidewalk outside business in Houston, TX. Claim filed on 08/12/2024.",Liability,43926,2024-06-09
+CLM-10121,"Frozen pipes burst causing extensive water damage to home in Chicago, IL. Claim filed on 22/05/2024.",Property Damage,57381,2024-02-25
+CLM-10020,"Side collision in parking lot of mall in Lansing, MI. Driver door dented severely.",Auto Accident,68339,2024-08-04
+CLM-10071,"Hit and run incident in Nashville, TN. Driver fled scene after damaging passenger side.",Auto Accident,50192,2024-05-25
+CLM-10106,"Flooding from heavy rain damaged finished basement in Madison, WI. Claim filed on 13/09/2024. Estimated damage $6,271.",Property Damage,42872,2024-02-25
+CLM-10270,"Bicycle stolen from rack outside business in Seattle, WA. Lock cut and bike removed.",Theft,69379,2024-08-17
+CLM-10435,"Customer injury from falling merchandise at store in San Francisco, CA. Claim filed on 15/05/2024.",Liability,8579,2024-03-25
+CLM-10102,"Frozen pipes burst causing extensive water damage to home in San Francisco, CA.",Property Damage,3890,2024-02-08
