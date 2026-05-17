@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>Claims Atlas — Analyzer</title>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/chartjs-chart-geo@4.3.0/dist/chartjs-chart-geo.umd.min.js"></script>
+<script src="https://cdn.plot.ly/plotly-2.35.2.min.js" charset="utf-8"></script>
 <link rel="stylesheet" href="/styles.css" />
 </head>
 <body>
@@ -27,207 +27,215 @@
 
 <main>
 
+  <!-- HERO / UPLOAD -->
   <section class="hero" id="heroSection">
 
     <div class="hero-intro">
       <h2 class="hero-title">A workbench for the analyst</h2>
       <p class="hero-lede">
         Claims Atlas classifies the type, surfaces hidden topics, extracts
-        the location of every incident, and renders the whole picture as one coherent dashboard.
+        the location of every incident, and renders the whole picture as one
+        coherent dashboard.
         <br>
-        Upload a local data table file <strong>OR</strong> click to trigger the system remote API data stream below.
+        Upload a CSV or Excel of claim descriptions, or pull live data from the configured source, to begin.
       </p>
     </div>
 
-    <div class="upload-card" style="width: 100%; max-width: 960px; margin: 0 auto; box-shadow: var(--shadow-md);">
-      <div class="upload-card-header" style="margin-bottom: 20px; border-bottom: 1px solid var(--border); padding-bottom: 12px;">
-        <span class="upload-card-title" style="font-weight: 600; font-size: 15px; color: var(--text-primary);">Data Intake Channel Selection</span>
-        <a href="/api/sample" class="link-btn" style="font-size: 13px; font-weight: 600;">Download sample CSV template</a>
-      </div>
-
-      <div style="display: flex; gap: 24px; align-items: stretch; margin-bottom: 24px; flex-wrap: wrap;">
-        
-        <div style="flex: 1; min-width: 280px; display: flex; flex-direction: column; background: var(--surface-alt); padding: 18px; border-radius: var(--radius); border: 1px solid var(--border);">
-          <label style="display: block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px; color: var(--accent);">
-            Option A: Local Dataset File
-          </label>
-          
-          <div class="dropzone" id="dropzone" style="flex: 1; min-height: 120px; display: flex; flex-direction: column; justify-content: center; align-items: center; border: 2px dashed var(--border-strong); background: var(--surface); border-radius: 8px;">
-            <input type="file" id="fileInput" accept=".csv,.xlsx,.xls" hidden />
-            <div class="dropzone-icon" aria-hidden="true" style="margin-bottom: 8px; color: var(--text-tertiary);">
-              <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2">
-                <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M17 8l-5-5-5 5M12 3v12" stroke-linecap="round" stroke-linejoin="round"/>
-              </svg>
-            </div>
-            <div class="dropzone-text" style="text-align: center;">
-              <p class="dropzone-title" style="font-size: 13px; font-weight: 500; color: var(--text-primary);">
-                Drop file here or <button class="link-btn" id="browseBtn" type="button">browse</button>
-              </p>
-            </div>
-          </div>
-
-          <div class="file-pill" id="filePill" hidden style="margin-top: 12px; background: var(--accent-soft); border: 1px solid var(--accent-light); padding: 8px 12px; border-radius: 6px; display: flex; align-items: center;">
-            <span class="file-icon" style="margin-right: 6px;">📄</span>
-            <span class="file-name" id="fileName" style="font-weight: 500; font-size: 12px; color: var(--accent); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 80%;">—</span>
-            <button class="file-clear" id="fileClear" type="button" style="font-size: 16px; margin-left: auto; cursor: pointer; background: transparent; border: none; color: var(--text-secondary); line-height: 1;">×</button>
-          </div>
+    <!-- ROW 2 — UPLOAD + ANALYZE side by side -->
+    <div class="upload-row">
+      <div class="upload-card">
+        <div class="upload-card-header">
+          <span class="upload-card-title">Data source</span>
+          <a href="/api/sample" class="link-btn">Download sample</a>
         </div>
 
-        <div style="display: flex; align-items: center; justify-content: center; position: relative; min-width: 40px;">
-          <span style="background: var(--bg); padding: 8px 12px; font-size: 11px; font-weight: 800; color: var(--text-secondary); border-radius: 50%; border: 1px solid var(--border-strong); z-index: 2; box-shadow: var(--shadow-sm);">
-            OR
-          </span>
-        </div>
-
-        <div style="flex: 1; min-width: 280px; display: flex; flex-direction: column; background: var(--surface-alt); padding: 18px; border-radius: var(--radius); border: 1px solid var(--border); justify-content: space-between;">
-          <div>
-            <label style="display: block; font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 12px; color: var(--accent);">
-              Option B: Automated Remote Stream Feed
-            </label>
-            <p style="font-size: 12.5px; color: var(--text-secondary); line-height: 1.5; margin-bottom: 16px;">
-              Instantly pull data into the machine pipeline using the authenticated corporate data repository URL configured on the server environment.
-            </p>
-          </div>
-          
-          <button type="button" id="remoteTriggerBtn" style="width: 100%; padding: 12px 16px; background: var(--surface); border: 1px solid var(--accent); color: var(--accent); border-radius: 6px; font-size: 13px; font-weight: 600; cursor: pointer; transition: all 0.2s; display: inline-flex; align-items: center; justify-content: center; gap: 6px;" onmouseover="this.style.backgroundColor='var(--accent-soft)'" onmouseout="this.style.backgroundColor='var(--surface)'">
-            ⚡ Connect &amp; Stream Data Feed
+        <!-- Source tabs -->
+        <div class="source-tabs" role="tablist">
+          <button class="source-tab active" data-source="file" type="button">
+            <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z M14 2v6h6 M16 13H8 M16 17H8 M10 9H8"/></svg>
+            Upload file
+          </button>
+          <button class="source-tab" data-source="remote" type="button" id="remoteTab" hidden>
+            <svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12a9 9 0 1 1-18 0 9 9 0 0 1 18 0z M3 12h18 M12 3a15 15 0 0 1 4 9 15 15 0 0 1-4 9 15 15 0 0 1-4-9 15 15 0 0 1 4-9z"/></svg>
+            Pull from remote
           </button>
         </div>
 
-      </div>
+        <!-- File-upload panel -->
+        <div class="source-panel" data-source="file">
+          <div class="dropzone" id="dropzone">
+            <input type="file" id="fileInput" accept=".csv,.xlsx,.xls" hidden />
+            <div class="dropzone-icon" aria-hidden="true">
+              <svg viewBox="0 0 48 48" width="28" height="28" fill="none" stroke="currentColor" stroke-width="1.8">
+                <path d="M24 32V8M14 18l10-10 10 10" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M8 32v6a2 2 0 0 0 2 2h28a2 2 0 0 0 2-2v-6" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </div>
+            <div class="dropzone-text">
+              <p class="dropzone-title">Drop your file here, or <button class="link-btn" id="browseBtn" type="button">browse</button></p>
+              <p class="dropzone-sub">Accepts .csv, .xlsx, .xls — must contain a description column</p>
+            </div>
+          </div>
 
-      <div style="border-top: 1px solid var(--border); padding-top: 16px; display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 16px;">
-        
-        <div style="display: flex; align-items: center; gap: 12px;">
-          <label for="numTopics" style="font-size: 12px; font-weight: 700; text-transform: uppercase; color: var(--text-secondary); letter-spacing: 0.5px;">
-            Surfaced Dynamic Topics:
-          </label>
-          <input type="number" id="numTopics" value="5" min="2" max="15" 
-                 style="width: 80px; padding: 8px 12px; border: 1px solid var(--border-strong); border-radius: 6px; text-align: center; font-family: inherit; font-size: 13px; font-weight: 600; background: var(--surface);" />
+          <div class="file-pill" id="filePill" hidden>
+            <span class="file-icon">📄</span>
+            <span class="file-name" id="fileName">—</span>
+            <button class="file-clear" id="fileClear" type="button" aria-label="Clear">×</button>
+          </div>
         </div>
-        
-        <button class="analyze-btn" id="analyzeBtn" disabled style="width: auto; padding: 12px 32px; margin: 0; display: inline-flex; align-items: center; gap: 8px; border-radius: 6px; font-weight: 600;">
-          <span class="analyze-btn-text">Analyze Local Uploaded Dataset</span>
-          <svg class="analyze-btn-arrow" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2">
-            <path d="M5 12h14M13 5l7 7-7 7" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
-        </button>
 
+        <!-- Remote-pull panel -->
+        <div class="source-panel" data-source="remote" hidden>
+          <div class="remote-info">
+            <div class="remote-info-icon">
+              <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M5 12l7-7M5 12l7 7"/></svg>
+            </div>
+            <div>
+              <p class="remote-info-title">Live data from remote source </p>
+              <p class="remote-info-sub"> Click Analyze to fetch the latest records from the remote source and process them.</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Topics control (shared across sources) -->
+        <div class="topics-control">
+          <label for="topicsRange" class="topics-label">
+            Topics to surface
+            <span class="topics-value" id="topicsValue">5</span>
+          </label>
+          <div class="topics-row">
+            <input type="range" id="topicsRange" min="2" max="10" value="5" step="1" />
+            <div class="topics-ticks">
+              <span>2</span><span>5</span><span>10</span>
+            </div>
+          </div>
+          <p class="topics-hint">LDA will produce this many themes from the descriptions.</p>
+        </div>
       </div>
+
+      <button class="analyze-btn" id="analyzeBtn" disabled>
+        <span class="analyze-btn-text">Analyze</span>
+        <svg class="analyze-btn-arrow" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M5 12h14M13 5l7 7-7 7" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </button>
     </div>
 
+    <!-- ROW 3 — FEATURES -->
     <div class="features-section">
       <div class="features-head">
         <h3 class="features-title">How it works</h3>
-        <p class="features-sub">Flexible operational execution workbench capabilities</p>
+        <p class="features-sub">Four stages, one click</p>
       </div>
       <div class="features-row">
         <div class="feature">
           <div class="feature-icon">1</div>
           <h4 class="feature-title">Predict claim type</h4>
-          <p class="feature-body">Classification systems extract each incident description text and index categories.</p>
+          <p class="feature-body">Trained classifier reads each description and assigns a category.</p>
         </div>
         <div class="feature">
           <div class="feature-icon">2</div>
-          <h4 class="feature-title">Surfaced Latent Themes</h4>
-          <p class="feature-body">Topic models scale matching structural clusters parameter counts directly.</p>
+          <h4 class="feature-title">Surface themes</h4>
+          <p class="feature-body">Topic model finds recurring threads — adjust how many themes to surface.</p>
         </div>
         <div class="feature">
           <div class="feature-icon">3</div>
-          <h4 class="feature-title">Geographic Choropleth</h4>
-          <p class="feature-body">Renders high-visibility dynamic density metrics vectors across US coordinates grids.</p>
+          <h4 class="feature-title">Map locations</h4>
+          <p class="feature-body">State-level location pulled from each claim, plotted on a US heatmap.</p>
         </div>
         <div class="feature">
           <div class="feature-icon">4</div>
-          <h4 class="feature-title">Word Clouds</h4>
-          <p class="feature-body">Per-topic isolated keyword clouds illustrate textual concentrations instantly.</p>
+          <h4 class="feature-title">Word clouds</h4>
+          <p class="feature-body">Per-topic clouds reveal the texture of each theme.</p>
         </div>
       </div>
     </div>
 
   </section>
 
+  <!-- PROGRESS -->
   <section class="progress-section" id="progressSection" hidden>
     <div class="section-head">
-      <h3 class="section-title">Reading your claims dataset</h3>
-      <p class="section-sub">Pipeline extraction task execution in progress</p>
+      <h3 class="section-title">Reading the claims</h3>
+      <p class="section-sub">In progress</p>
     </div>
     <ol class="stages" id="stages">
-      <li class="stage" data-stage="0"><span class="stage-num">1</span><span class="stage-label">Parsing &amp; cleaning</span><span class="stage-status">Queued</span></li>
+      <li class="stage" data-stage="0"><span class="stage-num">1</span><span class="stage-label">Fetching &amp; cleaning</span><span class="stage-status">Queued</span></li>
       <li class="stage" data-stage="1"><span class="stage-num">2</span><span class="stage-label">Predicting claim types</span><span class="stage-status">Queued</span></li>
-      <li class="stage" data-stage="2"><span class="stage-num">3</span><span class="stage-label">Dynamic Topic modeling</span><span class="stage-status">Queued</span></li>
+      <li class="stage" data-stage="2"><span class="stage-num">3</span><span class="stage-label">Topic modeling</span><span class="stage-status">Queued</span></li>
       <li class="stage" data-stage="3"><span class="stage-num">4</span><span class="stage-label">Extracting locations</span><span class="stage-status">Queued</span></li>
       <li class="stage" data-stage="4"><span class="stage-num">5</span><span class="stage-label">Generating word clouds</span><span class="stage-status">Queued</span></li>
     </ol>
     <div class="progress-bar"><div class="progress-bar-fill" id="progressBarFill"></div></div>
   </section>
 
+  <!-- ERROR -->
   <section class="error-section" id="errorSection" hidden>
     <div class="error-card">
       <div class="error-icon">!</div>
       <div class="error-body">
-        <h4 class="error-title">Analysis Interrupted</h4>
+        <h4 class="error-title">Something went wrong</h4>
         <p id="errorText">—</p>
-        <button class="btn btn-primary" id="errorReset">Return to Workspace</button>
+        <button class="btn btn-primary" id="errorReset">Try again</button>
       </div>
     </div>
   </section>
 
+  <!-- RESULTS -->
   <section class="results" id="resultsSection" hidden>
 
     <div class="results-header">
       <div>
-        <h3 class="section-title">Analytical Output Dashboard</h3>
-        <p class="section-sub">Operational computational matrices metrics profiles summaries</p>
+        <h3 class="section-title">Analysis results</h3>
+        <p class="section-sub" id="resultsSubtitle">Analysis complete</p>
       </div>
       <div class="results-actions">
-        <button class="btn btn-primary" id="downloadBtn">↓ Download Complete CSV</button>
-        <button class="btn btn-secondary" id="resetBtn">自由 Start New Analysis</button>
+        <button class="btn btn-primary" id="downloadBtn">↓ Download CSV</button>
+        <button class="btn btn-secondary" id="resetBtn">↻ New analysis</button>
       </div>
     </div>
 
     <div class="kpi-row" id="kpiRow"></div>
 
-    <div class="card" style="margin-bottom: 24px; box-shadow: var(--shadow-sm); border-radius: var(--radius);">
-      <div class="card-head" style="border-bottom: 1px solid var(--border); padding-bottom: 12px; margin-bottom: 16px;">
-        <h4 class="card-title" style="color: var(--accent); font-weight: 600;">Geographic Incidents Heatmap Concentration</h4>
-        <p class="card-sub">Dynamic interactive state choropleth charting claim volumes throughout regional parameters</p>
-      </div>
-      <div style="position: relative; height: 420px; width: 100%; max-width: 840px; margin: 0 auto; padding: 10px;">
-        <canvas id="usHeatmapCanvas"></canvas>
-      </div>
-    </div>
-
     <div class="charts-row">
       <div class="card chart-card">
         <div class="card-head">
-          <h4 class="card-title">Surfaced Topics &amp; Themes</h4>
-          <p class="card-sub">Quantitative distribution counts across text models</p>
+          <h4 class="card-title">Themes &amp; topics</h4>
+          <p class="card-sub">Latent topics surfaced from the descriptions</p>
         </div>
         <div class="chart-wrap"><canvas id="topicChart"></canvas></div>
       </div>
 
       <div class="card chart-card">
         <div class="card-head">
-          <h4 class="card-title">Top Incident Sites (Regional Ranking)</h4>
-          <p class="card-sub">Distribution listing sorted by extract tracking parameters</p>
+          <h4 class="card-title">Claim locations</h4>
+          <p class="card-sub">Distribution by extracted state</p>
         </div>
         <div class="chart-wrap"><canvas id="locationChart"></canvas></div>
       </div>
     </div>
 
-    <div class="card" style="margin-top: 24px;">
+    <!-- US HEATMAP -->
+    <div class="card">
       <div class="card-head">
-        <h4 class="card-title">Word Clouds Visualizations, by Theme Cluster</h4>
-        <p class="card-sub">Text density textures extracted from underlying groups</p>
+        <h4 class="card-title">US heatmap</h4>
+        <p class="card-sub">Claim density by state — hover for counts</p>
+      </div>
+      <div id="usHeatmap" class="heatmap-wrap"></div>
+    </div>
+
+    <div class="card">
+      <div class="card-head">
+        <h4 class="card-title">Word clouds, by topic</h4>
+        <p class="card-sub">The texture of each theme</p>
       </div>
       <div class="wordcloud-grid" id="wordcloudGrid"></div>
     </div>
 
-    <div class="card" style="margin-top: 24px;">
+    <div class="card">
       <div class="card-head">
-        <h4 class="card-title">Staged Data Output Row Ledger Preview</h4>
-        <p class="card-sub">Displaying initial 50 rows generated · use download control for absolute ledger targets</p>
+        <h4 class="card-title">Sample of analyzed claims</h4>
+        <p class="card-sub">First 10 rows shown · scroll for more</p>
       </div>
       <div class="table-scroll">
         <table class="data-table" id="dataTable">
@@ -242,7 +250,7 @@
 </main>
 
 <footer>
-  <p>Claims Atlas — Scaled Analytic Architecture Framework built with FastAPI · scikit-learn · Chart.js Geo</p>
+  <p>Claims Atlas &mdash; Built with FastAPI · scikit-learn · Chart.js · Plotly</p>
 </footer>
 
 <script src="/app.js"></script>

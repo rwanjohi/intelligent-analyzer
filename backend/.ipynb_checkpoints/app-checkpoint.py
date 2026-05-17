@@ -34,6 +34,9 @@ DATA_DIR = os.path.abspath(os.path.join(BASE, "..", "data"))
 
 # --- Secure Backend Configuration Layer ---
 # Both the destination URL and authentication keys are locked strictly on the server-side
+import os
+from dotenv import load_dotenv
+
 REMOTE_DATA_URL = os.getenv("REMOTE_DATA_URL", "https://raw.githubusercontent.com/user/repo/main/claims_stream.csv")
 REMOTE_API_KEY = os.getenv("REMOTE_API_KEY", "")
 THIRD_PARTY_BEARER_TOKEN = os.getenv("THIRD_PARTY_BEARER_TOKEN", "")

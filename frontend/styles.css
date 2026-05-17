@@ -260,6 +260,7 @@ main {
   justify-content: center;
   border: 1px solid var(--accent-light);
 }
+.remote-info-icon svg { transform: scaleX(-1); }
 .remote-info-title {
   font-size: 14px;
   font-weight: 600;
@@ -343,13 +344,20 @@ input[type="range"]#topicsRange::-moz-range-thumb {
   cursor: pointer;
 }
 .topics-ticks {
-  display: flex;
-  justify-content: space-between;
+  position: relative;
+  height: 14px;
   font-family: ui-monospace, "Consolas", monospace;
   font-size: 10.5px;
   color: var(--text-tertiary);
-  padding: 0 2px;
+  margin-top: 2px;
 }
+.topics-ticks span {
+  position: absolute;
+  transform: translateX(-50%);
+}
+.topics-ticks span:nth-child(1) { left: 0%;     transform: translateX(0); }
+.topics-ticks span:nth-child(2) { left: 37.5%; }
+.topics-ticks span:nth-child(3) { left: 100%;   transform: translateX(-100%); }
 .topics-hint {
   font-size: 11.5px;
   color: var(--text-tertiary);

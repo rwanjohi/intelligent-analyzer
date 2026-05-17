@@ -51,11 +51,10 @@ let activeSource = "file";   // "file" | "remote"
     if (!r.ok) return;
     const cfg = await r.json();
     if (cfg.remote_configured) {
-      remoteTab.hidden = false;
-      const host = cfg.remote_url_hint || "configured";
-      remoteHost.textContent = host;
-      remoteHostInline.textContent = host;
-    }
+  remoteTab.hidden = false;
+  const host = cfg.remote_url_hint || "configured";
+  if (remoteHostInline) remoteHostInline.textContent = host;
+}
   } catch (e) {
     // No remote configured — file-upload tab stays as only option
   }
@@ -241,10 +240,18 @@ analyzeBtn.addEventListener("click", async () => {
   await uiPromise;
 
   if (!response.ok) {
-    progressSection.hidden = true;
-    showError(body.detail || "Something went wrong during analysis.");
-    return;
+  // Mark the active stage as failed instead of letting the UI claim success
+  const activeStage = document.querySelector(".stage.active");
+  if (activeStage) {
+    activeStage.classList.remove("active");
+    const status = activeStage.querySelector(".stage-status");
+    if (status) status.textContent = "Failed";
   }
+  await new Promise(r => setTimeout(r, 300));
+  progressSection.hidden = true;
+  showError(body.detail || "Something went wrong during analysis.");
+  return;
+}
 
   document.querySelectorAll(".stage").forEach(s => {
     s.classList.remove("active");
